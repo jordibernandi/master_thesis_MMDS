@@ -1,2 +1,4 @@
-Decoding YouTube Political Content
-Ignatius Jordi Bernandi Harsawiguna
+### Decoding YouTube Political Content: Understanding Topics in Different Ideologies
+
+This research introduces a novel dataset of political YouTube video transcripts, categorized by political ideologies, addressing the need for scalable analysis of political content on the platform. Using advanced Automated Speech Recognition (ASR) technology, specifically Whisper, in conjunction with speaker diarization (SD) tools, the study evaluates the accuracy of transcript generation in the context of political content. These tools were used to generate over 10,000 transcripts focused on COVID-19-related content. A web app was developed to provide easy access to the dataset, enabling researchers to explore YouTube political content across ideological groups. Preliminary experiments using TopicGPT for topic modeling revealed key themes and shifts in discourse during major events like COVID-19.
+
