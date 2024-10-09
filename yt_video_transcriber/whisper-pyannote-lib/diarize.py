@@ -163,7 +163,7 @@ def main():
 
     model_name = "large-v3"
     model = WhisperModel(model_name, device="cuda" if torch.cuda.is_available() else "cpu", compute_type="float16")
-    diarization_model = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", use_auth_token="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").to(torch.device("cuda"))
+    diarization_model = Pipeline.from_pretrained("pyannote/speaker-diarization-3.1", use_auth_token="PUT_YOUR_PYANNOTE_AUTH_TOKEN").to(torch.device("cuda"))
 
     temp_wav_filename = f"temp-{time.time_ns()}.wav"
     if args.file:
