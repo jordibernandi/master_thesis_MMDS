@@ -40,6 +40,6 @@ In this phase, we conducted preliminary experiments to analyze the topics discus
 ### Showcasing: **yt-video-webapp**
 To facilitate easy dissemination and provide a more readable version of the transcripts, the dataset is available in multiple file formats. Users can search for political videos they are interested in and download them directly from the app.
 
-![Web App User Interface](./readme-images/UI1.png)
-
+![Web App User Interface 1](./readme-images/UI1.png)
+![Web App User Interface 2](./readme-images/UI3.png)
 ---
