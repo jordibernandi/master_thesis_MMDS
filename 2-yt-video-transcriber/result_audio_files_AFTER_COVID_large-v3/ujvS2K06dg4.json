@@ -1,0 +1,197 @@
+﻿{
+    "yt_video_id": "ujvS2K06dg4",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Roger, I have been fascinated by mathematics my entire life, and it is a pleasure to come to you to discuss two of its fundamental aspects.  One, its incredible capacity to describe reality, and then what mathematics really is.  So let's start with the first.  How accurately does math describe the physical world? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:25,500",
+            "end_time": "00:00:27,060",
+            "text": "Well, it is extraordinarily precise.  In different areas, more precise.  In some areas, we know less about it.  But... I think people often find it puzzling that something abstract like mathematics could really describe reality as we understand it.  I mean, reality, you think of something like a chair or something, something made of solid stuff.  And then you say, well, what's our best scientific understanding of what that is?  Well, you say it's made of fibers and... cells and so on.  And these are made of molecules.  And those molecules are made of atoms.  Those atoms are made out of nuclei and electrons going around.  And then you say, well, what's a nucleus?  And you say, well, it's protons and neutrons.  And they're held together by things called gluons.  And then neutrons and protons are made of things called quarks and so on.  And then you say, well, what is an electron?  And what's a quark?  And at that stage, the best you can do is to describe some mathematical structure, you say there.  things that satisfy the Dirac equation or something like that, which you can't understand what that means without mathematics.  I mean, the mathematical description of reality is where we're always led.  And these equations are fantastically accurate.  The Dirac equation, which describes the electron or quarks, is a very precise equation.  And for example, there's a calculation which describes the magnetic moment.  That is, electrons behave like little magnets.  And the magnetic moment, the strength of that magnet, can be described in terms of other parameters.  And there's a calculation which gets the accuracy of that.  Well, Feynman had a very good description.  He said, it describes the distance between New York and Los Angeles to an accuracy of less than the thickness of a human hair.  So that's pretty precise.  That's unbelievable. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:21,240",
+            "end_time": "00:02:25,040",
+            "text": "And that's describing the microstructure of atoms and... ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:25,100",
+            "end_time": "00:02:26,880",
+            "text": "Yeah, but these are the particles... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:27,320",
+            "end_time": "00:02:29,860",
+            "text": "The electron and the gluons. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:30,160",
+            "end_time": "00:02:37,320",
+            "text": "The electrons, this is specifically electrons and quarks, the things which are called spin half particles, but don't worry about that.  Gluons are slightly different.  Mm-hmm. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:40,740",
+            "end_time": "00:02:50,520",
+            "text": "Now, mathematics can also describe things in the ordinary physical world, gravitational attraction, electromagnetic attraction, and with the same kind of descriptive accuracy. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:50,680",
+            "end_time": "00:03:02,180",
+            "text": "Well, there's another, even more in a certain sense, because gravity, according to Einstein's theory, I mean, Newton's theory already had a precision of something like one part in 10 to the 7.  So that's 10 million.  Wow.  One part in that.  And then... there was discrepancies seen in the behavior of mercury and so on.  And that's where you start to see differences with Newton's scheme.  And then Einstein comes along and produces a theory which is now known to have a precision something like 10 to the power 14.  And that precision is a measure of how accurate, there's a particular system of two stars going around, special kinds of stars called neutron stars, very dense objects.  And these stars, one of them is what's called a pulsar.  It emits pulses of signals, which can be timed extremely precisely.  And over a period of, well, I suppose it's maybe more than 30 years now, I can't remember, they've been observing this thing.  And in that period of time, the accuracy over that length of time is known to something like one part in 10 to the 14.  Wow.  And the agreement between Einstein's theory and the observations.  So it's telling you these are very, very precise theories. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:13,700",
+            "end_time": "00:04:25,380",
+            "text": "So whether we're talking about the structure of very large entities, neutron stars over great distances in the universe with gravity, or the structure of an electron. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:25,560",
+            "end_time": "00:04:25,940",
+            "text": "That's right. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:26,420",
+            "end_time": "00:04:32,000",
+            "text": "mathematics in both cases is able to describe it with that kind of incredible precision.  Exactly. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:32,740",
+            "end_time": "00:04:32,880",
+            "text": "Yep. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:33,420",
+            "end_time": "00:04:35,980",
+            "text": "And these are small equations.  I mean, they're not giant. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:38,200",
+            "end_time": "00:04:38,580",
+            "text": "That's right.  They're relatively small equations.  I mean, they're a little difficult to understand.  Einstein's theory is certainly subtle.  It's not complicated in the sense that the ideas are, okay, you have to understand about curved space and that sort of thing, which is not an easy thing to get your mind around. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:56,060",
+            "end_time": "00:04:56,900",
+            "text": "But once you get over that... ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:56,940",
+            "end_time": "00:05:00,500",
+            "text": "But once you get over that, it's about the simplest thing you could write down.  Wow.  In... in that kind of term. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:04,480",
+            "end_time": "00:05:16,100",
+            "text": "So we have this extraordinary precision between mathematics on the macroscopic level with neutron stars and at the microscopic level with the nature of the electron.  And mathematics is incredibly precise in both cases.  What does that now begin to tell us about what mathematics really is? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:27,080",
+            "end_time": "00:05:39,100",
+            "text": "Yes, well, in a sense, this is telling us that our picture of physical reality depends on something, in a sense, which is more precise, at least in our understanding of it, than how we think about the world.  And this precision... really dates back to the ancient Greeks, the time of Pythagoras and later, where they developed the mathematical ideas as a field of study stimulated to some degree by physical reality.  Because the geometry of Euclid, which was very much part of the mathematics that was being studied then, which we know.  nano isn't extraordinarily precise.  I mean, it is extraordinarily precise, but it's not as precise as Einstein's theory.  So one has to go a little bit beyond the, uh, geometry that they had.  I don't think they quite appreciated that they were doing physics because they didn't realize that the geometry of the world could have been anything else.  But they developed this mathematical scheme purely as a study on its own.  And so mathematics was studied as a pure intellectual activity and without necessarily it being related to the structure of the physical world, although geometry clearly was a big input.  But then the properties of numbers and how you add and multiply, and the notions of prime numbers, the fact there are infinitely many prime numbers that goes back to Euclid and earlier.  And so these things just about numbers were developed very much from the time of the Greeks.  And ever since then, mathematics has been the subject which you can study for its own sake.  It has its own life, in a sense.  And certainly mathematicians view it this way.  It's something out there.  which seems to have a reality independent of the reality, the ordinary kind of reality, like things like chairs and so on, which are what we normally think of as real.  But, okay, the mathematical reality is something different.  It's sometimes referred to as a platonic world, a platonic reality.  And sometimes people have a lot of trouble thinking that is real.  I mean, philosophers worry about that and so on. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:36,080",
+            "end_time": "00:07:38,200",
+            "text": "What would that mean, a platonic reality? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:38,960",
+            "end_time": "00:07:44,920",
+            "text": "Well, I think... It's a different kind of reality from the reality of the physical world.  I mean, I tend to think of there being different ways of looking at reality.  There's the reality of our mental experience, which, okay, interrelates with the physical reality.  But so then there's the mathematical reality of this platonic world, which gives reality to these notions.  So if you like, mathematical facts, like there is no largest prime number, It's something independent of ourselves.  It's always been true.  It didn't somehow become true as soon as somebody saw how to prove it.  It's always been true.  They're wonderful examples like the... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:23,760",
+            "end_time": "00:08:26,980",
+            "text": "And it would have been true if nobody... If nobody had been around, exactly, yes. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:27,300",
+            "end_time": "00:08:41,280",
+            "text": "And in a sense, that had to be so, because if the physical world depended so precisely on these mathematical laws, I couldn't have known what to do in a certain sense if the mathematics hadn't already been there.  It's not us that imposes this on the world.  It's out there.  Sometimes people think that, you know, maybe the reason we have good mathematical laws of physics is that's the best way we can come to understand the world.  But it's something more than that.  It really is out there in the world. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:59,780",
+            "end_time": "00:09:00,560",
+            "text": "Well, that's the argument.  Whether mathematics is invented by us, by human beings, trying to impose our way of thinking on the physical world, or whether it is discovered because it's already out there and we're finding it because it's already there.  Those are the two polar views. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:18,980",
+            "end_time": "00:09:20,220",
+            "text": "Sometimes people do argue.  They say, well, you know, it's just our way of organizing what we see about us.  But I really don't think that's good enough because Newton, for example... the observations probably had about three figures and three decimal places.  And he produced his theory, which kept on working until about seven figures, you see.  Then there were discrepancies seen.  Einstein produced his theory mostly out of his head, appealing to things that were known to Galileo and so on.  But apart from that, ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

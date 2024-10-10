@@ -1,0 +1,149 @@
+﻿{
+    "yt_video_id": "1-Zl9o7I4Fo",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "And Wigner's famous comment about the unreasonable effectiveness of mathematics kind of elicits a desire to probe what that means.  We know the effectiveness of mathematics, but why the word unreasonable?  This is supposed to be reasonable.  But the perception that math is unreasonable is a very probative idea. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:25,200",
+            "end_time": "00:00:29,160",
+            "text": "Well, it's uncanny how powerful mathematics is in understanding physics.  So I think Eugene Wigner had in mind the fact that on the one hand, to understand the equations of physics, you need to know a surprising amount of rather sophisticated math.  But on the other hand, the equations of physics are mathematically interesting.  So mathematics is the language in which the laws of physics are formulated and in terms of which they have to be studied. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:55,840",
+            "end_time": "00:00:57,600",
+            "text": "So you're using your own term, uncanny.  He said unreasonable.  Slightly different, but why do you think it's uncanny? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:03,440",
+            "end_time": "00:01:06,600",
+            "text": "Well, it's as if the universe had been created by a mathematician. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:08,620",
+            "end_time": "00:01:11,520",
+            "text": "That goes into a whole other area.  But I've always wondered that some of the equations, I mean, why is it the case that simple equations can work, even the inverse square law?  I mean, why is it inverse square?  Why wasn't it instead of the square, some long decimal point or something? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:28,620",
+            "end_time": "00:01:30,280",
+            "text": "That wasn't fully understood until Einstein.  So in Einstein's theory, you can't change the inverse square law.  Newton could have used a different law, and he just took the inverse square from experiment.  But in Einstein's theory, the inverse square is the only possibility. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:42,020",
+            "end_time": "00:01:43,020",
+            "text": "And why is that the case? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:44,020",
+            "end_time": "00:01:46,920",
+            "text": "Well, technically, it's because Einstein's theory is a field theory.  So there's no action at a distance between two objects.  Rather, this one creates a gravitational field that this one sees.  But the gravitational field of this one spreads in space.  And because of the way the surface area grows as the distance grows, as it spreads in space, it falls off at such a rate as to produce an inverse square.  So it's just a geometrical fact about three space dimensions that you get an inverse square law.  So an example of why physicists consider Newton's, sorry, Einstein's theory better than Newton's, is that Newton could have changed the inverse square law and Einstein couldn't.  So Einstein, if you like, explained the inverse square law.  Newton just postulated it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:28,400",
+            "end_time": "00:02:34,640",
+            "text": "And you say that if you trace that back, it looks like a mathematician.  What does that say about the nature of reality? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:39,780",
+            "end_time": "00:02:48,140",
+            "text": "Reality, as well as we can understand, is described by laws that are interesting and subtle mathematically.  I think that's a summary of an important part, at least, of what we've learned in the last couple centuries. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:58,940",
+            "end_time": "00:03:12,680",
+            "text": "And the work that you and others have done, studying the depth of quantum field theory, but looking at the physical world, have had implications in terms of the development of pure mathematics.  So the unreasonable effectiveness that Wigner talked about was sort of math as the primary to explain the physical world.  you've done some work that goes in the other direction.  And so how does that affect this unreasonable nature of mathematics?  It seems to unify the two, that it's not so much the unreasonable effectiveness of mathematics, it's that there's some kind of common thing between the physics and the math. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:41,200",
+            "end_time": "00:03:43,460",
+            "text": "Well, clearly, there are some common roots.  There are differences in emphasis, in interests, in goals, in focus.  math and physics keep intersecting because physical laws need mathematical structures for their formulation and also for their study.  And those mathematical structures that play a role in physical theories are sometimes the most interesting ones. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:10,420",
+            "end_time": "00:04:11,340",
+            "text": "What an example. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:12,960",
+            "end_time": "00:04:16,839",
+            "text": "Well, historically, I'll give two examples.  A very early example was calculus, which is completely fundamental mathematically, but was invented because Newton needed it to describe the planetary orbits.  A more contemporary example, which involves the work of Karen Ollenbeck, Simon Donaldson, and other mathematicians, is that to understand four manifold theory, which means, in layperson's terms, to understand the properties of four dimensional spaces, mathematicians needed these equations called the instanton equations, which emerged from physics.  So mathematicians studying geometry learned that four-dimensional spaces are particularly interesting.  And there were two surprises here.  One is that the four dimensions of the real world where you've got to remember Einstein taught us to include time, so we've got four dimensions.  The four dimensions of the real world turn out to be the most interesting case, even if you're just interested in math.  But also to understand this most interesting case required equations that came from physics, the instanton equations. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:16,280",
+            "end_time": "00:05:21,720",
+            "text": "How about the work that you did that led to an elucidation of not theory in mathematics? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:22,860",
+            "end_time": "00:05:24,560",
+            "text": "So that's certainly another example.  So we've all grappled in everyday life with the tangled piece of string.  But most of us probably aren't aware that in the 20th century, mathematicians developed a rather deep mathematical theory of knots, which roughly speaking, is a theory that describes all the way that that piece of string could have been tangled.  And it has got many connections with physics.  So even very early developments, like the Alexander polynomial of a knot, discovered, I think, around 1920 by one of my predecessors here at the Institute, James Alexander.  He had no particular interest in physics, but later was understood that the Alexander polynomial can be naturally formulated in terms of quantum physics.  Now, half a century or so after Alexander, von Jones discovered something called the Jones polynomial, a much richer generalization, which gave, if you like, more truths about how the piece of string can be tangled.  And I have the good fortune of understanding how the Jones polynomial can be understood in terms of quantum theory. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:31,880",
+            "end_time": "00:06:33,280",
+            "text": "And just what was that process?  How did that work?  I mean, when you were studying quantum theory, how did you then apply it to the pure math? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:40,560",
+            "end_time": "00:06:47,340",
+            "text": "Well, it's one of several problems that were recommended to me by the distinguished senior mathematician, Michael Atiyah.  And in the 1980s, there were many, many discoveries about the Jones polynomial, many of which related to theoretical physics in one way or another.  In fact, almost Jones' first work involved relating the Jones polynomial to what's called the temporarily leave algebra of statistical mechanics.  Anyway, there was a huge diversity of clues involving different relationships of the Jones polynomial to different kinds of mathematical physics.  Some were not terribly close to things I knew, but some were close to things I knew.  And well, my experience is it's hard to get things right the first time.  But if you're exposed to enough clues, you might figure it out eventually. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

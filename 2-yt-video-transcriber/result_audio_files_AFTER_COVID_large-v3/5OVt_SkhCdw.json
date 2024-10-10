@@ -1,0 +1,317 @@
+﻿{
+    "yt_video_id": "5OVt_SkhCdw",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "This is a very quick response video to this video by Jeremy Corbell who is interviewing John Earhart, an electro-optical specialist who works at Boeing and he designs and builds test equipment for the ATFLIR system which was made by Raytheon.  and Jeremy interviews him and asks him some questions and then comes away thinking that he's debunked the rotating glare hypothesis of the gimbal.  but as we shall see I don't think that is correct and I'm very quickly going to go through the video now.  the first five minutes are just Jeremy saying debunkers are terrible and don't listen to them and things like that.  Then there's a couple of minutes of John explaining what he does and his qualifications and his experience, things like that, which is all fine.  I have no problem with him.  He obviously has some experience with the AppFleur system and he understands the components.  He even describes some of them by name, like DRO for derotation.  So he's obviously familiar with the fact that they're there.  So let's skip forward to 728, which is where the actual question is asked.  Let's see about there.  So let's see. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:13,720",
+            "end_time": "00:01:16,860",
+            "text": "It's like it rotates counterclockwise in the frame.  Does the FLIR gimbal UFO, does it display an actual rotation of the object itself?  Or is that an optical illusion?  caused by the derotation mechanism within the at flare pod. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:35,900",
+            "end_time": "00:01:39,660",
+            "text": "All right, so first of all, this is Jeremy asking kind of the wrong question.  It says, is it caused by the dero mechanism?  And just the derotation mechanism by itself obviously isn't going to do that.  All a derotation mechanism does is rotate something.  There has to be something that makes the glare actually rotate separate from the horizon.  So the derotation mechanism, if all we're talking about is the derotation mechanism rotating things, it rotates the entire scene.  so everything in that scene will rotate the same.  The question is how do you get something that rotates the glare relative to the horizon?  So he's kind of asking the wrong question and I think it kind of leads John down the wrong path in giving his answers.  So let's see what he says. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:20,500",
+            "end_time": "00:02:25,120",
+            "text": "The way the dero works, it's going to spin the entire scene.  What it's doing is it's spinning the scene.  so it doesn't look like it's spinning.  It's actually counteracting the effect of when the gimbal is tracking it. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:33,940",
+            "end_time": "00:02:35,780",
+            "text": "Yeah, that is perfectly correct.  The reason for the derotation mechanism is that the camera itself has to rotate because of the way it's gimbal mounted for various reasons.  And that rotation would make the horizon look like it's at weird angles.  And so they have this derotation mechanism that puts the horizon back where it should be.  So it actually doesn't look like anything is rotating.  It actually looks like the horizon is steady.  This comes into play when the camera is tracking from left to right because if it's over here, It has to be a certain angle and it's over here.  It actually has to kind of rotate all the way around and I have videos explaining this.  So that was correct. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:12,040",
+            "end_time": "00:03:16,300",
+            "text": "So when you look at that video, the target is rotating more than the scene is. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:18,200",
+            "end_time": "00:03:24,560",
+            "text": "Right, so he's saying the target is rotating more than the scene is and this is kind of like I think a bit of the misunderstanding.  He's thinking that there's a target and then there's the scene and these are two separate things.  He's already starting out thinking that this target is an actual solid object and so he kind of goes along with that and that leads him to... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:40,760",
+            "end_time": "00:03:44,360",
+            "text": "see a little bit of the whole scene rotate, but the target just keeps rotating.  So there's nothing in the system that's going to rotate the target more than the background. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:49,400",
+            "end_time": "00:03:50,040",
+            "text": "This doesn't work out.  right that's perfectly true.  you know if you've got like you've got a background like my bookcase is back here and you've got a a target like this little thing here and you rotate the entire camera then they're both going to rotate together.  obviously that's perfectly true.  but that's kind of assuming that what you see as a target is actually a solid object.  if it's something else like like a glare then it's a bit different.  so we'll get into that in a second. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:16,959",
+            "end_time": "00:04:23,140",
+            "text": "You don't have to get into any arguments about whether or not it's an artifact of target itself causing some glare or something. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:23,940",
+            "end_time": "00:04:24,840",
+            "text": "Well, actually, you do.  You do kind of have to get into arguments about that, because if it's a glare, then the rotation could be.  the orientation of the glare could be affected by components of the camera.  If, for example, you take a camera like this one here, this is a Canon 7D, and it's got this little 50mm lens in, and it's got this kind of hexagonal, I think octagonal aperture in it, and the glare that you see around lights from that will have these little spikes on in certain directions, like up, down, left, right, and at 45 degrees, blah, blah, blah.  And if you were to rotate the lens, if you'd actually like to press this button here and rotate the entire lens assembly, it actually rotates the glare, the glare itself rotates.  So if there's something in the camera system ahead of the derotation mechanism that is rotating around and causes the glare itself to rotate relative to the horizon, and this is the key point, the glare rotates relative to the horizon.  because we're rotating the camera or part of the camera, and then we do the d rotation then puts the horizon back where it is.  but since the glare has rotated relative to the horizon the glare appears to rotate independently of the horizon.  it's complicated and i know a lot of people uh have trouble with it and i have trouble explaining it to people and it's perfectly understandable people people miss this uh.  but anyway i'm kind of getting ahead of myself here.  let's see what uh john has to say. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:01,020",
+            "end_time": "00:06:05,780",
+            "text": "The derotation device inside the AT flare is not going to rotate the target, not the background. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:06,560",
+            "end_time": "00:06:07,060",
+            "text": "We're seeing... ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:06:07,340",
+            "end_time": "00:06:16,600",
+            "text": "Yeah, see again there, he's just assuming that the target is like a solid object that's part of the scene rather than an artifact within the camera itself.  I mean, it is actually a solid object, it's a jet engine, but that creates this glare artifact, which is kind of affected by the camera.  So if something is rotating, in the camera then that glare will rotate relative to the horizon or actually really it's more like the horizon rotates relative to the glare and then it rotates the horizon back to where it should be by rotating the entire scene which rotates the glare and the horizon looks like it hasn't moved and the glare looks like it has moved complicated. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:47,080",
+            "end_time": "00:06:53,700",
+            "text": "i know the gimbal craft itself rotate.  we're not seeing a glare or flare effect from this magical d rotation device. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:06:59,260",
+            "end_time": "00:06:59,620",
+            "text": "that is correct.  wow yeah that's right it's rotating. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:07,980",
+            "end_time": "00:07:09,100",
+            "text": "yeah man absolutely it's like.  That's the conclusion you would reach if you don't think about what is making the shape of the glare rotate.  Why does a glare have a particular shape?  Now if a glare has some kind of diamond shape it could well be because of a diamond shaped aperture or it could be because of the sequence of mirrors it goes through.  He talks a bit about steering mirrors earlier.  It could be something to do with the window that's in front of the camera.  It could be that there's very fine abrasions on the window that make the glare longer in one direction than the other.  You have seen all these things happen with different cameras.  I've seen smudges on the window make the glare go in a certain direction.  what appears to be something to do with the aperture that makes it be oriented in a certain direction.  So these things do happen.  You do get shaped glares.  Glares are not just uniformly round blobs.  Quite often they have spikes up, down, left, right, just like the gimbal has.  If you look at it closely, it has these axial spikes that go that way and then a longer one that way along the long axis of the saucer.  And so if the thing that is causing that shape, the thing that causes these spikes is rotated in front of the derotation mechanism, then the glare is going to rotate relative to the horizon.  Or like I said before, the glare is not rotating, but the horizon is rotating.  Let's see what else we have. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:47,180",
+            "end_time": "00:08:47,760",
+            "text": "It's so simple. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:48,180",
+            "end_time": "00:08:51,220",
+            "text": "People are trying to confuse the issue. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:08:52,560",
+            "end_time": "00:08:56,040",
+            "text": "I'm not trying to confuse the issue but unfortunately it is confusing.  so you can't just simply say oh yes the derotation mechanism rotates the inside scene.  therefore the object could not rotate independently of the horizon.  I did a whole video on this this gimbal UFO.  why does the gimbal rotate?  where does the glare rotate when the horizon does not?  you know I can append this to this video, but you know I tried to explain it there, but like I say it's.  it's understandably difficult to grasp and I think John is perfectly capable of grasping it obviously as a technician who understands these things, but I think the way Jeremy has explained it to him has kind of left him with like a simple understanding of what the issue is and and so it's really really jeremy's fault here i think unfortunately not really communicating the actual explanation to john.  but let's see.  what else do we have? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:48,240",
+            "end_time": "00:09:49,100",
+            "text": "those arguments don't matter.  this is a mid-wave infrared camera right.  so it's looking at between like three and five microns.  that's the wavelength of the radiation.  that's three thousand to five thousand nanometers.  you're looking at the background and the same wavelength that you're looking at the target.  that's what's important.  the whole scene. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:07,600",
+            "end_time": "00:10:09,080",
+            "text": "I'm not sure that's really important.  I mean, it's just saying that it's just a single picture.  It's a single image and it's just light coming in.  It's like saying, you know, oh, this hand here is getting light at the same wavelength as the bookcase back there.  So they're part of the same scene.  I mean, yeah, that's true, but it's not really that relevant.  It's just kind of a more technical way of saying it's just a single image. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:31,420",
+            "end_time": "00:10:34,500",
+            "text": "The same wavelengths of energy from the background as you are from the target.  It's just a different amount of flux, how many photons per second are coming in.  That's all. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:39,760",
+            "end_time": "00:10:42,640",
+            "text": "It's different between the target and the background.  Different brightness. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:43,460",
+            "end_time": "00:10:49,760",
+            "text": "Regardless of if it's reflective or refractive, it's going to change the background and the target the same.  So just think of a mirror of a flat surface. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:52,740",
+            "end_time": "00:10:56,380",
+            "text": "It's just going on about... essentially the same thing.  how a derotation mechanism rotates an entire image which is understood.  and we're not saying the derotation mechanism causes the object to rotate independently in the background.  it's already rotated independently of the background.  or as I keep saying the background has rotated and the glare hasn't rotated.  so you have to rotate the background back and that rotates the glare an all reflective design because that's way way cheaper. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:11:25,500",
+            "end_time": "00:11:31,140",
+            "text": "But this argument doesn't hinge on whether or not the D row is all reflective or refractive. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:11:31,180",
+            "end_time": "00:11:31,580",
+            "text": "Nope, not at all.  It could be all software-based.  It's attempting to argue something that's irrelevant to the case.  It's interesting because he says it's a straw man argument, which is exactly what we've got here.  Jeremy is presenting this straw man argument.  Is the D rotation mechanism causing this to rotate independently of that?  But that's not the actual argument.  It's like a... a easy to rebut argument that you put up, which is what a straw man argument is.  It's something that seems easier to attack.  I'm not sure if that's a straw man argument.  Anyway, but let's carry on. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:07,680",
+            "end_time": "00:12:11,740",
+            "text": "Because the object would never move independently of the horizon.  based on this ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:12:13,200",
+            "end_time": "00:12:28,600",
+            "text": "if it was an object no it wouldn't if it was an actual flying saucer then rotating the camera isn't going to do anything but if it's a glare with the shape of that glare is affected by components of the camera that are in front of the d rotation mechanism then yes it will actually rotate.  it will appear to rotate this system. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:31,780",
+            "end_time": "00:12:34,860",
+            "text": "yes that object is turning. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:12:35,600",
+            "end_time": "00:12:46,980",
+            "text": "Yeah, nothing inside the AT FLIR system is or could cause the rotational flux of the target that is at a higher rate than the background. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:47,840",
+            "end_time": "00:12:48,880",
+            "text": "Yeah, I mean, that's true.  But again, he is just basically stating the obvious here, that if there's a picture and it's got something in the foreground and something in the background and you rotate the image, they're both going to rotate the same.  That's not what the argument is. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:13:04,140",
+            "end_time": "00:13:04,680",
+            "text": "There's no way.  The optics are causing that rotation. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:09,420",
+            "end_time": "00:13:11,780",
+            "text": "I love it how you cut to the chase like a fucking samurai.  It's a completely mute point.  Case closed.  Fucking bang.  People will find crafty ways to pull the wool over people's eyes.  Trust me that.  Do you find it interesting that it... ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:13:23,660",
+            "end_time": "00:13:27,180",
+            "text": "Jeremy's saying that people will find crafty ways to pull the wool over people's eyes.  How could I pull the wool over people's eyes?  Do you think I'm pulling the wool over your eyes by giving you this explanation?  Do you think I'm just an idiot because I don't understand what John is talking about here?  I mean, I think basically... I don't think anything's really changed here.  John basically did the why does the horizon not rotate when the object does rotate?  argument which I explained in my video and nothing really changed.  it's just the same arguments.  and now Jeremy has got another expert who agrees with him another expert who is wrong.  I think this expert, if I was to talk to him, I'd be happy to do so.  Perhaps even just watching this video might do it.  He might understand the actual argument because he seems like he's a pretty smart guy.  So, let's see.  Finish up here. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:14:20,740",
+            "end_time": "00:14:23,240",
+            "text": "It is of such a mechanical nature.  I mean, they said it's... Oh, yeah. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:14:24,200",
+            "end_time": "00:14:25,680",
+            "text": "Yeah, yeah.  Yeah, that's what really jumps out at you. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:29,080",
+            "end_time": "00:14:29,740",
+            "text": "It's rotating.  This is funny.  I think Jeremy is just saying that this is him here and he loves the smell of messing up debunkers in the morning.  Yeah, beware.  Well, any thoughts?  Yes, I do have some thoughts and these are they.  I think I'll just play my... I'll just attach this gimbal UFO video and you should watch this. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

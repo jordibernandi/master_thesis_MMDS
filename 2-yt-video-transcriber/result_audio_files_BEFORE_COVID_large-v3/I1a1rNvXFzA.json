@@ -1,0 +1,61 @@
+﻿{
+    "yt_video_id": "I1a1rNvXFzA",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:14,220",
+            "end_time": "00:00:14,680",
+            "text": "Speed it up. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:14,840",
+            "end_time": "00:00:19,940",
+            "text": "So this is the CNN reporter arriving in regular time.  And this is unedited.  We just speed it up so we're not sitting here for 30 minutes.  And so the CNN reporter stops right in front of your driveway.  Again, you have the subsequent DVRs that this never happened before. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:31,320",
+            "end_time": "00:00:32,680",
+            "text": "This guy's connected to the FBI. ",
+            "speaker": {
+                "name": "Speaker 4"
+            }
+        },
+        {
+            "start_time": "00:00:33,520",
+            "end_time": "00:00:36,800",
+            "text": "He pulls forward, checks the addresses, backs back up. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:39,600",
+            "end_time": "00:00:44,140",
+            "text": "And then we start speeding up the tape so that we're not sitting here again for 30 minutes waiting. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:45,440",
+            "end_time": "00:00:47,960",
+            "text": "And again. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        }
+    ]
+}

@@ -1,0 +1,189 @@
+﻿{
+    "yt_video_id": "TNNIaxSXbNw",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Welcome to the Not All Better Show. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:03,500",
+            "end_time": "00:00:10,300",
+            "text": "I'm Paul Vogelsang, and this is episode number 435.  We are back with another great segment today, and as part of our Smithsonian Associates author interview series, we are joined today by author, historian, Christianity scholar, and expert on Jesus Christ and the New Testament, Dr. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:00:30,140",
+            "end_time": "00:00:30,740",
+            "text": "Bart Ehrman. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:32,020",
+            "end_time": "00:00:42,320",
+            "text": "According to the most recent Pew Research Center poll, 72% of all Americans believe in a literal heaven as a place of eternal blessing for departed souls.  But even though Christians have held these ideas for centuries, they are not found anywhere in the Old Testament or even in the teachings of the historical Jesus.  So where did they come from?  Were they simply invented?  And what about Eleanor Shellstrop, the wonderful character from the hit TV show The Bad Place, who desperately works to avoid the afterlife she deserves and its eternal torments?  We will answer all these questions today with Dr.  Bart Ehrman.  But let's listen as Dr.  Bart Ehrman reads from his new book, Heaven and Hell, about the afterlife and more. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:01:22,600",
+            "end_time": "00:01:26,300",
+            "text": "When I thought about God as a child, I thought about the afterlife. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:27,540",
+            "end_time": "00:01:34,860",
+            "text": "I obviously had no clear understanding of death, but I did believe that after I died, I would go to heaven or hell.  And I was bound and determined to make it one and not the other.  Looking back, the afterlife later helped motivate me to become more deeply involved in my Episcopal Church.  participating in worship, saying prayers, singing hymns, confessing my sins, learning the creeds, becoming an altar boy.  Naturally, I worshipped God and tried to live the way I thought he wanted because I thought it was the right and good thing to do.  But also, at least in part, it was because I knew full well what would happen to me if I didn't.  I am also sure that hope for heaven and fear of hell played a large role when later, as a mid-teenager, I had an even deeper spiritual experience.  Some of my high school friends were committed Christian kids who believed it was necessary to make an active and specific commitment to God by asking Jesus into my heart.  They convinced me, and as a 15-year-old, I became a born-again Christian. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:37,580",
+            "end_time": "00:02:39,080",
+            "text": "That, of course, is our guest today, Dr.  Bart Ehrman, reading from his new book, Heaven and Hell.  Please join me in welcoming back to the Not All Better Show, Dr.  Bart Ehrman, who will be appearing at the Smithsonian Associates Program September 12, 2020.  And the title of his presentation is Heaven and Hell, Perspectives on the Afterlife.  Dr.  Ehrman, welcome back to the program. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:03:00,880",
+            "end_time": "00:03:07,300",
+            "text": "I found a reference to, I think it was in your blog, to Eleanor Shellstrop and The Bad Place.  Yes.  And that's one of our favorite shows here in our household.  Well, it's a popular TV show, and your upcoming Smithsonian Associates presentation is a popular one, too.  It is a day-long event with you.  And I think that's going to be fascinating.  It's an indication of how important and popular this particular subject is.  But what else are you going to kind of talk us through there at the Smithsonian Associates presentation that day? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:35,140",
+            "end_time": "00:03:37,460",
+            "text": "Yeah, no, it's a terrific series.  It's very clever and interesting.  And it's interesting that it's become a bit of a cultural phenomenon.  You know, I think The reality is that a lot of people, maybe most people, are afraid of dying.  And sometimes it's good to laugh at your fears.  And that's what I think one of the things this series accomplishes.  It's very funny, but it's dealing with something that we all personally take very seriously.  And it wrestles with the big problem that, you know, who dies?  Who deserves to be punished forever?  and serious, you know, to be tortured forever?  Even Eleanor, who was not the best of human beings, she's getting it hard.  And, you know, does she really deserve to be tortured forever?  And she she of course, she ends up in heaven by a mistake, but she works hard to stay there.  And, you know, we're pulling for her the whole way.  But it does raise the big questions of, you know, are heaven and hell really plausible ideas in our day and age?  And if, you know, if we think they are, if we think that they're not, It's interesting to think about where did the ideas come from?  You know, the idea that you get punished forever or that you have eternal bliss.  I mean, where did those ideas come from?  And that's really what my book is about, is trying to figure out where those ideas of heaven and hell originally came from, leading to people thinking about them today and even watching TV shows about them. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:13,640",
+            "end_time": "00:05:18,320",
+            "text": "Well, in some ways, we've kind of invented this concept of heaven and hell then. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:19,320",
+            "end_time": "00:05:30,700",
+            "text": "The thing I'm really most interested in, in both the Smithsonian presentation and in my book, is how to, as I've said before, how to explain where these ideas came from.  What I'll do in the Smithsonian event is show how in older parts of the Western tradition, there was no idea of heaven and hell.  It's certainly not an older Greek tradition or Roman tradition.  And I'm going to argue that, in fact, you can't find our teachings of heaven and hell, that your soul dies, you die, and your soul goes to heaven or hell.  You can't find that anywhere in the Old Testament.  And more surprising, I'm going to argue that, in fact, it's not what Jesus taught.  That this idea of eternal punishment or eternal bliss in heaven above in your soul is a later Christian development that you will not find in the teachings of Jesus or in the teaching of Paul or in the book of Revelation.  That will come as a surprise to some people, but I think I can show that. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:23,180",
+            "end_time": "00:06:25,080",
+            "text": "The book, of course, is Heaven and Hell.  It's getting excellent reviews, and I've had a chance to read it.  And so I want to just put the pressing question to you.  What do you believe about the afterlife, and what are some of the different perspectives that you touch on in the book Heaven and Hell? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:06:40,480",
+            "end_time": "00:06:42,900",
+            "text": "Well, my view is that every idea is invented.  In other words, you know, the idea that you can figure out the circumference of a circle.  So somebody came up with that.  Now, it's absolutely true that you can figure out the circumference of a circle by using the formula.  But somebody had to come up with the formula.  So I do think that the views of heaven and hell were invented in the sense that there was one time where nobody thought this, and there's a later time where most people think it.  Well, somewhere between those two times, somebody came up with the idea.  So the reason I talk about the circumference of the circle is because it doesn't mean that it's true or false.  whether it was invented or not.  But it is absolutely the case that the views of heaven and hell were invented.  They're not what people used to believe.  They are what many people believe today.  And so my question is, how did they get invented?  And when?  And by whom?  And those kinds of questions.  As I've said in the preface, I grew up believing in heaven and hell.  And after I became a born again Christian, I was fully committed to the idea and fully believed I was going to heaven.  And everybody who did not believe in Christ the way I did was going to go to hell, even if they were a good person.  And I changed my views over the years as I thought more about it and read more about it, became a Bible scholar and looked into what we could know about the history of these ideas.  Eventually, Eventually, as I think you know, I left the Christian faith, and I no longer consider myself a Christian in the sense of believing in Christian doctrine.  I still do consider myself a follower of Jesus.  I mean, I try to follow the ethical teachings of Jesus and try to implement them in my life, but I don't believe in God.  I'm not a believer.  My view is that there is that there's no afterlife.  I think that when we die, that's it.  Just as all other living things die and they cease to exist.  I believe my personal view is that that's true of humans as well.  But that really doesn't affect how I do anything in this book, as it turns out.  Because the things I talk about in this book are things that actually I could have said back when I was a Christian.  Because I'm not trying to present in the book anything about what's actually going to happen when we die.  Because I don't know.  And a lot of people say they do know, but I don't think they know.  I don't think we know.  I'm not really talking about what actually is happening.  I'm talking about where did this idea came from?  that if we live right or we follow a particular religious tradition, we'll have an eternal reward, and if we don't, we'll be eternally punished.  Where did that come from and why did it come about?  What were the circumstances that led it to to be invented at some point?  And add some reflections about how plausible it is so that people can think about it.  You know, is this something they want to believe or not?  If they do fine, if they don't, that's fine, too.  Mm hmm. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:54,420",
+            "end_time": "00:09:55,620",
+            "text": "It is a fascinating subject.  And so I wonder, we'll kind of take it from the perspective of maybe not an afterlife.  And I have this question for you about what possible justice might mean in a world beyond.  What is the sense that our culture believes in kind of a possible justice? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:10:15,220",
+            "end_time": "00:10:15,400",
+            "text": "Yeah.  You know, I think one of the things I argue in the book is that this is, this is one of the main reasons that people began to believe in the natural life because life otherwise just isn't fair.  Um, People who are good people, who do their best, suffer miserably sometimes.  And somebody who's a real schmuck gets off the hook and just lives the most glorious life, and they both die.  And that's not right.  And so people started thinking there must be more to it than that.  There's got to be some kind of justice in the world, especially if there's a God who's in control of it.  Then, of course, there has to be justice after death.  And so that that is the beginning of the idea of the afterlife.  It actually began before Christianity.  We have this kind of view already in Greek philosophy going back before Plato that justice will be done in the end.  And, you know, it's a very satisfying thought because especially for people who are suffering now, you know, they think, you know, I'm it's it's awful for me now, but it's going to be all right.  And so I completely resonate with that.  And I believe in having hope.  But it doesn't mean that I think it's true.  I mean, you know, there are a lot of things that I wish were true, that I hope are true, but I'm not so sure they are true.  And this is one of those things. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:11:52,160",
+            "end_time": "00:11:56,740",
+            "text": "We kind of talked a little bit about Eleanor Shellstrop in the wonderful television program Bad Place.  And so I wonder if we don't believe in the afterlife, should we be afraid of death? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:12:02,920",
+            "end_time": "00:12:04,140",
+            "text": "Yes, that was a big question.  When I was thinking about becoming, when I was thinking about leaving the faith, I was just thinking about it, I was praying about it, I was trying to figure out where I wanted to go, what I wanted to think.  And, you know, the thing is, in some level, what you want to think isn't necessarily what you're going to think.  But I really thought seriously about it.  One of my fears was that if I was wrong, and it turned out I had been right to begin with, and then I left the faith, then, you know, I could be in trouble here for eternity.  Well, that's not good.  But the other thing I thought is, you know, if If if there is no afterlife, then how does life have any meaning?  And I was afraid that I would become a complete nihilist, that I would be there'd be no reason to there'd be no point in living and that I would be completely depressed and that would be awful and I'd have nothing to live for.  And as it turns out, just the opposite thing happened in my case.  Everybody's different.  In my case, what happened was when I came to think there's no afterlife, I came to cherish this life much more because I don't think it's a dress rehearsal.  I don't think we're preparing for something else.  I think this is it.  And that makes me want to relish life and the simple pleasures in life as much as I can.  It didn't turn me into a party animal who just thought I had to get it all in before the end.  But it also didn't turn me into somebody who was depressed.  And it also didn't make me more self-centered, which is the other thing I thought it would do.  On the contrary, since it's not only the whole thing for me, but for everybody else in the world, I think we should try to make life as good as we can for everybody, not just for ourselves.  And so it hasn't turned me into a kind of self-centered person who's just out for myself.  In fact, it's made me want to help other people more and to do more for people who are in need, knowing that this is their this is their chance.  And so it's actually made me more concerned about about the needy, the hungry and the homeless and the oppressed and so forth. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:16,440",
+            "end_time": "00:14:25,040",
+            "text": "Almost right along the lines of the popular acronym, what would Jesus, or WWJD, I think, is what would Jesus do?  It's almost a way of thinking and a way of living and be kind to others. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:14:29,960",
+            "end_time": "00:14:36,620",
+            "text": "Well, you know, Jesus, you know, people, I think, often misconstrue what Jesus' teaching was.  For me, the center of his teaching is that you should love your neighbor as yourself.  And I think, you know, the most important passage on Jesus' lips in the New Testament, in my opinion, is the passage about the sheep and the goats in Matthew chapter 25, verses 31 through 46, which I believe if there is an afterlife, that's how it's going to work.  the people who are sent into the heavenly realms are people who didn't even know about Jesus existence.  They've never heard of him, but they did good things for others.  They helped those who were hungry and thirsty and in prison and lonely.  And the people who are sent off for punishment for the people who refused to help others.  And so for me, uh, life ought to be centered on helping other people.  And, um, You know, we'll let the chips fall where they do when the end comes. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:15:36,180",
+            "end_time": "00:15:36,280",
+            "text": "Dr.  Bart Ehrman, we thank you so much for your time today.  Dr.  Bart Ehrman, excellent book, of course, Heaven and Hell.  And thank you so much for your time today. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:15:45,760",
+            "end_time": "00:15:46,040",
+            "text": "Thank you.  I've enjoyed it. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:15:48,200",
+            "end_time": "00:15:51,940",
+            "text": "My thanks to the Smithsonian team for all they do to support the show.  Remember, stay safe, everyone.  Practice smart social distancing and talk about better.  The Not All Better Show. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:16:00,600",
+            "end_time": "00:16:07,200",
+            "text": "Thanks, everybody. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+﻿{
+    "yt_video_id": "_GjIgJPn47E",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Some people attacked my recent video, Gravity is not a force and the acceleration is upwards, as pseudoscience garbage.  There were also at least two rebuttal videos.  The planet Earth is not accelerating upward.  But Albert Einstein's general relativity describes gravity as something other than a force.  And it's easy to show that no force makes an object fall.  and that the acceleration of gravity really is upwards.  I've loaded my phone with an accelerometer app and attached it to a camera.  Here are the axes of this setup, X, Y, and Z. When I accelerate the system in the positive direction along an axis, I get a positive acceleration reading in that direction.  Sitting on a surface, it says that it's accelerating at 1g, 9.8 meters per second squared.  Yet, unlike a car speeding up, it isn't going anywhere.  Now let's see what happens when I drop it.  It registers zero acceleration as it's falling.  Newton's second law of motion says that force equals mass times acceleration.  So, if the acceleration measurement is zero, then any measurable forces acting on the phone must also be zero.  Gravity must not be a force that causes the phone to fall to the floor.  Now let's show that the acceleration of gravity is upwards, not downwards.  If we simply lift the phone, the reading is always greater, not less, than 1g.  Upward linear acceleration is in the same direction as gravitational acceleration.  Well, maybe you're thinking that the calibration is arbitrary, and accelerometers could just as easily be calibrated to show gravity as a downward pulling force.  But here's mine on a rotating wheel.  It's correctly registering a centripetal acceleration in the positive x direction toward the center.  An accelerometer recalibrated for downward force gravity would not accurately measure centripetal acceleration.  So it would be pretty useless for an engineer.  It would also be useless in deep space.  You don't need to be Einstein to see that gravity is not a force that makes things fall, and that the acceleration actually is upward.  You just need an accelerometer app.  Checkmate! ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

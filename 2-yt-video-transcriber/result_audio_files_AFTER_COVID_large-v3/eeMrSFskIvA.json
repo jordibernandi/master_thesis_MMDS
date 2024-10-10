@@ -1,0 +1,381 @@
+﻿{
+    "yt_video_id": "eeMrSFskIvA",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Hello and welcome to this late night debate edition of the FiveThirtyEight Politics Podcast.  I'm Galen Druk.  Joe Biden and Bernie Sanders just wrapped up their first head to head debate under pretty unusual circumstances.  There is, of course, a growing pandemic that has changed all of our lives in the span of a week.  And that was the focus of the first half hour of the two hour debate.  And then things move on to many other topics.  And Biden and Sanders got pretty pretty feisty.  So we're going to talk about what happened.  And I'll mention that.  last week I said that we were testing our remote capabilities.  We tested them.  We are still working to improve them, but we are going to be continuing to use our remote capabilities for the foreseeable future, like a lot of people around the country.  So bear with us and we're going to get better with time.  Anyway, here with me to discuss our editor in chief, Nate Silver.  How's it going, Nate?  Hey there. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:59,160",
+            "end_time": "00:00:59,480",
+            "text": "How are you? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:59,900",
+            "end_time": "00:01:00,220",
+            "text": "I'm good.  I'm good.  Surviving all alone in my apartment, going on a week.  Also with us is managing editor Micah Cohen.  Micah, how are you? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:08,800",
+            "end_time": "00:01:09,380",
+            "text": "Good, good.  Yeah, soon we won't have to wedge cell phones to record our audio into our headphones.  Soon we'll have a more professional setup. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:17,540",
+            "end_time": "00:01:24,840",
+            "text": "which you can see if you're watching us on YouTube, because yes, we are still putting these on YouTube, even though we're recording with our computers.  I'll also say that Claire is out this evening, and she'll be back with us soon.  So, first question, I think I usually ask, was there a clear winner?  But I think the first question to ask here is, how did the debate suit the moment?  The first half hour was about the crisis.  Was that enough?  Did it seem like it was... well calibrated to the crisis that the nation is in right now. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:49,360",
+            "end_time": "00:01:50,460",
+            "text": "I guess I have to ask this question, right?  I mean, it seemed appropriate enough.  I guess the candidates were a little feisty and aggressive at times, but they're trying to win a nomination.  I don't know.  I mean, I think it seemed fine.  Sorry for less than... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:07,740",
+            "end_time": "00:02:21,880",
+            "text": "I think there were moments during the debate where for Sanders in particular, some of his tried and true talking points felt a little... you know out of key given the moment.  um but i would i would.  i would agree with nate that those moments were relatively uh minor given that a lot of the focus of the debate was about coronavirus.  um so all in all i i thought i thought the debate.  moderators handled it well.  i think yeah. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:39,560",
+            "end_time": "00:02:42,480",
+            "text": "was there a clear winner of the debate? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:02:43,780",
+            "end_time": "00:02:44,260",
+            "text": "Not really.  Right, Nate? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:45,220",
+            "end_time": "00:02:46,260",
+            "text": "I think Biden probably won.  But if he didn't win, he didn't lose.  And all I had to do was not lose.  And if he had lost, he probably would have won the primary anyway.  I mean, I don't know.  I don't think we want to provide like... We have a... forecast model that says Biden is 99% to win the majority.  Maybe there are some coronavirus-related impacts that, like, it's not accounting for something.  It doesn't account for, like, a candidate getting sick, for example.  But, like, I don't know.  I don't want to kabuki our listeners into pretending that there's a competitive race when there's not.  We spend a lot of time on FiveThirtyDay talking about, oh, people are too sure of themselves.  This thing could go either way.  30% is a high probability.  This is not, like, a terribly suspenseful primary at this stage. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:27,620",
+            "end_time": "00:03:40,720",
+            "text": "And so really the goal was for Biden, given that it's not a competitive primary at this stage and that news coverage is moving on to coronavirus, was to not mess up in any kind of major, major way. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:41,880",
+            "end_time": "00:03:45,560",
+            "text": "Well, I think there's a little bit of like, oh, offense is the best defense, right?  I think when Biden was in prevent and defense mode for some of the early debates, it didn't really wind up helping him, right?  He made more errors.  He let other candidates get in on the attack and seemed kind of feeble, frankly, in like defending himself.  And so I think he kind of thought like, Offense is the best defense, basically. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:58,640",
+            "end_time": "00:03:59,160",
+            "text": "Go after Sanders. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:59,200",
+            "end_time": "00:03:59,920",
+            "text": "Yeah, go after Sanders a little bit. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:59,960",
+            "end_time": "00:04:01,700",
+            "text": "Counterpunch at the very least. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:01,960",
+            "end_time": "00:04:03,120",
+            "text": "Well, no, sometimes he was initiating conflict. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:03,160",
+            "end_time": "00:04:06,500",
+            "text": "And what kind of dynamic did that create?  I mean, given that... I think in the first half hour, I almost expected that the entire two hours were going to be spent talking about coronavirus.  And then... And the other kind of thing that I think people may have been thinking going into this is that since it seems likely that Sanders doesn't have a chance at this point, he'll be pushing Biden to the left, but not really going after him in an aggressive way.  That's not what happened.  Like there was a solid hour in there where they were really going after each other.  Why did that end up happening, Micah? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:04:36,740",
+            "end_time": "00:04:40,820",
+            "text": "Yeah, I mean, I was pretty surprised by that.  Maybe I shouldn't have been.  So I went into the debate thinking exactly what you just said, which is that, you know, given the the way Biden appears to have this nomination pretty wrapped up that Sanders strategy would be like, you know, focused on policy, not trying to appear as if he was trying to harm Biden, given that Biden is very likely to end up in the general election.  I think looking back now, you know, I'm not sure, you know, Sanders pushing Biden to the left on policy doesn't look that different than Sanders attacking Biden because he wants to win the primary.  So looking back, maybe we shouldn't have expected that much of a difference.  That said, though, I think Sanders.  There were a couple moments where Sanders went after Biden, not in a way that suggested, oh, I want this person to hew to these policies once they're the nominee, but just in a way of like, hey, I'm trying to win this campaign.  Here's a line of attack. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:55,540",
+            "end_time": "00:05:57,500",
+            "text": "And going after his record, really, right?  Pretty directly.  Yeah. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:59,600",
+            "end_time": "00:06:09,000",
+            "text": "Those moments stood out in particular and going out, going after Biden's record on parts of his record where Biden has already shifted to the left.  Right.  So on the Hyde Amendment, for example, on immigration.  So if if if you're Sanders and and you're trying to to box Biden into some extent.  So you end up with the most liberal Democratic nominee possible.  It doesn't make a ton of sense to go after him on issues where he's already shifted to the left.  Now, maybe a lot of that is simply just like you're on the debate stage.  You have to react in real time.  You sort of revert to what you know.  So I'm not sure how much I would read into it.  But I was surprised by by by how much Sanders went after Biden.  I thought it would be less than it was. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:47,480",
+            "end_time": "00:06:49,260",
+            "text": "Was it damaging to Biden in any way?  I mean, not in the primary.  We've discussed that it's over.  But did we preview lines of attack that might come up in the general on, I don't know, maybe Social Security?  You've seen that, you know, Trump can be an interesting, malleable figure and not ideologically set.  And so I've heard people talking about Biden being vulnerable on Social Security, for example.  Was that an aspect of tonight's debate at all?  Was he made vulnerable? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:07:15,160",
+            "end_time": "00:07:22,140",
+            "text": "No, I mean, I think it was a pretty dull debate, except for the fact that no one really fucked up and that Biden said that he's going to name a woman VP.  You know, I mean, Bernie tried to kind of corner him on this particular debating point, reminds me of like when I was in high school debate about like, you know, if you win in high school debate, if you win like one argument, no matter how consequential or not, then you can argue that you won the whole debate, right?  I'm skipping a lot of detail there.  But like, that's not how it works in like actual debates where like, You know, OK, let's say that Biden at some points on the Senate floor talked about potential cuts to Social Security with respect to balanced budgets or whatever, not, you know, some grand compromise, whatever, not, you know, voters don't think he generally today stands for cutting Social Security.  And whether he said that on the Senate floor at some point or not probably doesn't matter as much as what voters think about his overall position on Social Security given eight years of his tenure as VP.  I think Bernie was very often not thinking about winning the actual election.  debate and not just the argument.  and winning the primary.  moreover and not just the argument it's all stuff we've seen i mean litigated. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:26,120",
+            "end_time": "00:08:29,960",
+            "text": "we should talk about the the biden's pledge to pick a woman as vp.  that was super interesting.  but i will say galen to your point about the general election.  if anything having having sanders as a foil attacking biden from the left um you know, I'm not sure it makes much of a difference at all in the general election, but if anything, you would expect it to be marginally helpful to Biden just in terms of positioning as the kind of more reasonable, the more reasonable one, you know? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:56,100",
+            "end_time": "00:08:56,600",
+            "text": "Yeah.  How unprecedented is it to make a pledge that you'll choose any particular person?  I mean, I guess people make pledges about their cabinet sometimes or Supreme Court justices, but is it unprecedented to make commitments about... I guess, the gender or race or whatever of the person that your vice president is going to be? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:09:17,420",
+            "end_time": "00:09:19,620",
+            "text": "I mean, Ted Cruz picked a VP nominee. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:21,220",
+            "end_time": "00:09:22,700",
+            "text": "In Carly Fiorina, that's true.  As like a Hail Mary, but not as the likely nominee. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:09:26,460",
+            "end_time": "00:09:28,680",
+            "text": "Well, you can imagine Biden picking somebody soon.  I mean, first of all, it happens to be the case that most of the stronger nominees, VP nominees that you would want anyway, happen to be women.  So Harris and Klobuchar and Gretchen Whitmer and Stacey Abrams, all those people, right?  It wouldn't surprise me if... if Biden says after Tuesday that, okay, we have this long hiatus where either states have postponed their vote or the vote's going to be weird anyway because who's going to turn out at a time like this, right, when the CDC says no mass gatherings for 60 days?  And he's going to say, look, I'm way ahead.  This thing should be over.  Bernie can do whatever the hell he wants, but I'm going to start campaigning for the general election.  I think he might do that.  And I think that might be a good strategy for the general election and the primary.  And so he might pick a VP nomination relatively soon.  I mean, I don't know, like if Biden wins these four states by 20 or 30 points on Tuesday, and there's no voting in the next states for like six weeks, I mean, where are we, right?  Is he the presumptive nominee?  I think so.  Right?  He's up 25 points in national polls. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:38,120",
+            "end_time": "00:10:47,540",
+            "text": "Wouldn't he want to choose his vice presidential pick at a time when they're going to garner a lot of positive media attention and not when they're going to be swept under all of the coronavirus coverage? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:10:48,180",
+            "end_time": "00:10:54,640",
+            "text": "You know, if part of Biden's response is being prepared... then naming your VP might look more prepared.  It's not like the VP pick produces a big bounce, or if it produces a bounce, who the hell cares, because it happens in July and the election's in November.  So if it's part of like, here's my preparation plan, here's somebody who can step in on day one, here's a contrast with Trump and Pence, I don't really see that much downside to doing it.  Well, you could kind of do like they do in the UK, right, where the opposition picks like a shadow cabinet before they actually win the election, obviously, or when they lose the election.  You know, you could see Biden saying, OK, he would be my, you know, director of health and human services.  I don't think he'd go that far.  But you could say, like, here's how I run my presidency in the era of the coronavirus outbreak as a contrast to Trump. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:11:35,800",
+            "end_time": "00:11:37,860",
+            "text": "I mean, it's so it's so interesting.  So.  if the primary gets essentially paused after tuesday as nate was describing because there's this natural lull in the calendar and you know furthered by coronavirus whether that makes biden the more presumptive nominee because he's well ahead now and let's say he names a vp pick and that makes it all seem all the more presumptive nominee right?  um or it makes it so that Sanders, the Sanders campaign can basically hang on longer by depicting things accurately as like, hey, wait a second, this race was interrupted before it was technically over. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:24,680",
+            "end_time": "00:12:25,700",
+            "text": "It's 60% over.  And if the polls are right, then Biden will win like all these huge states. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:28,700",
+            "end_time": "00:12:29,520",
+            "text": "But Nate, that's how we think about it.  But I'm just talking about like how this, how... ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:31,580",
+            "end_time": "00:12:32,380",
+            "text": "That's how Democrats think.  I mean, he's up, he's down 25 points in the polls.  I mean, Bernie can do whatever he wants.  I'm just saying like, I don't know if voters, the DNC, the media, or the Biden campaign really care that much. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:45,020",
+            "end_time": "00:12:50,420",
+            "text": "If I had to bet, I would bet almost all those groups would treat Biden as the presumptive nominee.  I guess I'm just interested in what does Sanders do?  Before tonight, I don't know.  Look, I don't know what Sanders is going to do.  I think kind of predicting what he'll do is mostly just stabbing at things in the dark.  But like... Before tonight, I thought he would drop out relatively soon, given the speech he made, maybe soon after this debate and the voting on Tuesday.  But I don't know.  Tonight, it was more, it was feistier than I expected it to be.  Does it matter what Sanders does? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:22,740",
+            "end_time": "00:13:34,160",
+            "text": "In a way, at this point, it matters less because the press is going to be a lot less interested in what he has to say about Biden or what he has to say generally because of the amount of coverage that's going to be dedicated to coronavirus.  And he's not going to be able to hold rallies, so there's not big press events to even cover anyway.  So that would be a reason that I would think he would get out sooner rather than later.  But it's also a reason that whether or not he does get out, his impact on coverage and the race... is minimal. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:13:52,660",
+            "end_time": "00:14:03,780",
+            "text": "now so much of so much of sunday night's debate was focused on was was sanders going on attack at parts of biden's record right?  and we've seen over and over again that that voters just don't care that much about about how consistent your record is, whether you changed positions, whether you voted for this or that bill 30 years ago.  I mean, think of Trump, how many positions he flip-flopped on.  Think of Mitt Romney, right?  He got tagged as a flip-flopper in 2008, didn't win that nomination, won in 2012.  I think to your point, Galen, maybe it just doesn't matter that much what Sanders does. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:37,380",
+            "end_time": "00:14:59,520",
+            "text": "Well, I think we're actually going to keep this response podcast tonight relatively short because we're recording another podcast tomorrow about, well, the coronavirus and the public's response to it more broadly, and then also previewing those primaries in Ohio, Illinois, Florida, Arizona.  But I guess on an ending note, Does anybody remember this debate?  Was this all kind of like a weird two hours where we picked our heads up from coronavirus and we can all forget about it now? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:15:17,160",
+            "end_time": "00:15:20,520",
+            "text": "I don't know how long this is going to last.  Let's say it's two months per the CDC's.  no mass gatherings recommendation.  I think the only things that anyone will ever remember from this period in history will have to do with coronavirus.  No one's going to remember the debate.  No one's going to remember what happens Tuesday unless there's some massive shock and Bernie wins Florida or something.  That's the only story in the world. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:15:41,900",
+            "end_time": "00:15:49,920",
+            "text": "Yeah, I do want to ask you how it's all going to affect turnout, but I'm actually going to ask you that on tomorrow's podcast, so that will give people something to make sure they tune into. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:15:51,500",
+            "end_time": "00:15:56,180",
+            "text": "Just to respond to what Nate said and wrap it up, I think that's right.  I think coronavirus is the story.  It doesn't leave room for much else, although certainly I think people remember if this is indeed what happens, and I think it will be, that this was the moment when, this was the time period when Biden wrapped up the nomination.  But it's just worth saying, and we were talking about this a bit on the live blog, that like, it is amazing and I think speaks to how big of a story coronavirus is.  Think about how big this field was.  This was a field of how, I think we had 26 or 27 major candidates at one point by our criteria.  And we finally get down to two people, two candidates on the debate stage.  And no one cares.  And I think you guys are right.  No, likely no one will remember much of this at all. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:49,240",
+            "end_time": "00:16:49,600",
+            "text": "It's pretty.  Can you imagine, though, if there weren't just two candidates and somebody who was well on their way to winning the nomination?  Can you imagine if there were still four people running or something and it was very undecided?  It would be incredible how you'd have to manage that campaign. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:17:04,140",
+            "end_time": "00:17:04,500",
+            "text": "No, that's true.  And I should realize one thing.  I mean, We're in the, at least from a U.S.  standpoint, kind of the early days here.  There are scenarios where people are hunkered down for weeks, where maybe things seem to be stabilizing, and where people are paying a lot of attention to various diversions, including politics.  So if I hear myself say that now, I'm kind of like, okay... But at this moment right now, at the very least, the only thing people care about is how their day-to-day lives are changing or about to change, about how bad this will be, coronavirus.  And I don't think this debate will be remembered very much.  But yeah, I mean, like a scenario where Biden doesn't emerge or someone doesn't emerge as a clear frontrunner on Super Tuesday, where you don't have someone at 98% or 99%, right, then that's a gigantic problem because there's no doubt at the margin that you know, pushing the calendar around could affect things, right?  Turnout could be affected in somewhat unpredictable ways.  And all that stuff could matter.  I mean, the other issue Sanders has is like, let's say that Biden wins these four states on Tuesday.  And then weird results start to happen, right?  When no one's turning out.  Like, that wouldn't really be a legitimate argument for the nomination anyway.  You know what I mean?  So it's like, that's the other problem he has.  Like, you know, is he going to convince him if it gets close enough?  By the way, Bernie's more likely to actually, if he does win, it's more likely to be at a contested convention.  Because it's even harder for him to actually get to a majority, right?  So at this convention, are people going to say, okay, well, Biden was winning everything until America became the apocalypse and no one turned out for two months, right?  And then Bernie real awesome wins there.  Are they going to be like, let's hand the nomination to Bernie now?  And prediction markets actually have Hillary Clinton as being a more likely nominee than Bernie right now, which I don't know if I believe, but that has reflected some type of thinking about, is there some giant unexpected thing that happens, even if there is, Then you might be in a case where even though Biden does have a majority plenary of delegates, it's someone apart from Biden and Bernie becomes the nominee.  I don't know. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:19:16,080",
+            "end_time": "00:19:16,340",
+            "text": "All right.  Well, we're going to talk more about this tomorrow.  So let's leave things here for now.  Thank you, Nate. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:19:22,200",
+            "end_time": "00:19:22,700",
+            "text": "Thank you, Galen. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:19:24,720",
+            "end_time": "00:19:25,220",
+            "text": "Thanks, Micah. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:19:25,580",
+            "end_time": "00:19:25,940",
+            "text": "Thank you.  My pleasure. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:19:28,360",
+            "end_time": "00:19:29,480",
+            "text": "My name is Galen Druk.  Tony Chow is in the virtual control room.  You can get in touch by emailing us at podcasts at 538.com.  You can also, of course, tweet at us with questions or comments.  And if you're a fan of the show, leave us a rating or review in the Apple Podcast Store or tell someone about us.  Thanks for listening, and we will see you soon. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        }
+    ]
+}

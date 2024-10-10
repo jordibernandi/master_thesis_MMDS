@@ -1,0 +1,165 @@
+﻿{
+    "yt_video_id": "8B4LWBq39NM",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Hello, everyone. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:01,380",
+            "end_time": "00:00:10,860",
+            "text": "This is After Effects Wizard DTF, and I'm going to show you how to do the Loving Vincent effect in After Effects without any third-party plugins.  That was a motorcycle.  That was very loud and probably heard up in my... No, I'm not going to do another take.  Okay.  So to do this, we start with any blue screen footage.  This is me just adjusting my shirt and wiping sweat off my brow.  You know, because I do that.  Now, by the way, I should credit Creation Effects, Creative Tools for After Effects, for... inspiring this tutorial.  You can download a full effect on their site here.  You can see what they did with it.  It gives you this nice little swirly thing.  We're going to do the second effect here.  Can you hear the train in this sound mix?  Now what we're going to want to do is go to Layer, New, Adjustment Layer, and we'll do all the effects here. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:20,160",
+            "end_time": "00:01:35,560",
+            "text": "Loving Vincent is a film released by Breakthrough Productions in the year 2017, directed by Dorota Kobylia and Hugh Welchman, and starring Douglas Booth, Saoirse Ronan, Jerome Flynn, Chris O'Dowd, and Robert Golacek as the 19th century post-impressionist painter Vincent van Gogh.  And yes, I am going to try and say his name with the correct Dutch pronunciation, rest in peace my comment section.  It's certainly not the first attempt to make a biopic.  Kirk Douglas starred as the painter in 1956's Vincente Minelli-directed film Lust for Life, Robert Altman made one starring Tim Roth in 1990, and so did Julien Schnabel last year with Willem Dafoe.  And interestingly, Akira Kurosawa imagined his dream self talking with the painter in 1990's Dreams, Van Gogh played by, of all people, Martin Scorsese.  And all of these films have their own solutions to telling Vincent's story, and to showing his work.  Loving Vincent did both, in a painstaking process where live actors were used to rotoscope an entire film using oil paint and canvas, the medium that Van Gogh worked in, in Van Gogh's style, using his signature impasto style to bring his most famous works to cinematic life.  And now let's take a moment to consider poor Tony Joe's inbox flooded with messages of, Hey, have you heard about this movie?  Every frame is literally a painting.  Ha ha ha ha. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:40,620",
+            "end_time": "00:02:43,800",
+            "text": "So let's put in the effect brush strokes.  Yeah, and that should give us this like painterly sort of a thing.  Let's turn it up to full resolution.  Let's turn up the brush size so we can really see.  As you can see, it is taking a while to load.  So how are y'all doing? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:19,800",
+            "end_time": "00:03:32,800",
+            "text": "The film took years to complete, with an international coordination of over 100 painters to create over 800 paintings for 66,000 frames for every 12th of a second of this 94-minute movie.  It's a masterfully insane process to capture the essence of Van Gogh's paintings in motion. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:40,960",
+            "end_time": "00:03:45,620",
+            "text": "Now we need to make these brushstrokes look like a human hand painted them, you know?  So let's go to, um, let's introduce some randomness and go to turbulent displace.  Um, let's turn on the amount a lot.  There, that'll make it look like it's been painted.  These previews are really bad. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:17,060",
+            "end_time": "00:04:26,040",
+            "text": "Now, the nature of oil paint is that it's translucent and semi-transparent, which gives every oil painting a sense of depth and shimmer that you only see by looking at it up close.  For centuries, this made it an ideal medium for realism, before photography made it obsolete.  It was this move away from realism which made Van Gogh's work possible.  The Impressionists before him departed from realism to experiment with the nature of paint itself, that thing which can't be done in charcoal or print or photography.  Only in paint.  Photography, even high-resolution photography, can never fully capture these properties.  You inevitably lose something in the transfer from physical object to captured light.  And you lose even more in the transfer from film negative to final.  Even this form on YouTube, there's bound to be some detail lost in the H.264 compression of the original Blu-ray file.  And that's not even mentioning the picture frame.  I put around this footage to avoid getting content ID'd.  Yes, it's fair use, but an algorithm doesn't know that. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:16,320",
+            "end_time": "00:05:20,320",
+            "text": "So anyway, let's get some actual paint texture here.  Now, what we have here is a palette knife texture.  I'm going to scale that down.  Yeah, that should mimic the texture of oil paint.  And also some of this streak stuff.  And scale that down.  And so these still images should give us the texture of oil paint onto our After Effects footage. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:54,060",
+            "end_time": "00:06:14,180",
+            "text": "The thing about looking at a Van Gogh painting, as I tried to do here on the one day that Momo is free, is that you know that you're looking at the actual brushstrokes made by this poor man with deep mental health issues who's been posthumously mythologized as the greatest painter who ever lived, and seeing this object that's been passed down through generations, with all the wear and tear that implies.  Or at least it would if it wasn't behind glass and a crowd of admirers that you have to fight through to get a good view.  Even just showing this high-resolution copy of Starry Night doesn't substitute for being in the same room with the actual painting.  It's just pixels, not paint. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:32,920",
+            "end_time": "00:06:35,860",
+            "text": "Add the effect, texturize.  Texture layer, oil paint streaking.  And then add an oil paint palette knife.  Rendering.  Yeah, there we go.  So now we have some of that, like, painting texture on there. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:01,220",
+            "end_time": "00:07:09,840",
+            "text": "In 1936, Walter Benjamin, a Marxist philosopher who had fled Germany to Paris after the rise of the Nazis, wrote an influential essay about this missing element.  He called it the painting's aura.  In The Work of Art in the Age of Mechanical Reproduction, he wrote, \"...by making many reproductions, it substitutes a plurality of copies for a unique  existence.\".  And in permitting the reproduction to meet the beholder or listener in his own particular situation, it reactivates the object reproduced.  These two processes lead to a tremendous shattering of tradition, which is the obverse of contemporary crisis and renewal of mankind.  Both processes are intimately connected with the contemporary mass movements.  Their most powerful agent is the film. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:55,700",
+            "end_time": "00:08:10,860",
+            "text": "You know, the Loving Vincent, uh, the actual Loving Vincent movie, like, painted each frame by hand, but, uh, we're gonna try and, uh, um, get around that with some, uh, movie magic.  Ha ha.  Uh, ha ha.  Yeah, that was... Believe it or not, that was a joke. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:21,540",
+            "end_time": "00:08:24,340",
+            "text": "I'm not sure how Benjamin might feel about this film, then.  A film made up of oil paintings.  What's more, oil paintings made specifically for a film, photographed once, then shown back at a twelfth of a second.  I don't have a sense of an individual artist's work, but a collective effort by thousands made to honor a different, long-dead artist.  Though I suppose all films are the collected effort of thousands.  The film itself is structured around trying to discover the essence of the artist's hand, their intent, and trying to replicate it.  Itself a maniacal leap at supposed genius.  This has to be the slowest form of filmmaking ever invented. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:07,260",
+            "end_time": "00:09:08,760",
+            "text": "I think I'm going to chop my ear off soon.  I feel like I'm turning into Van Gogh. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:12,740",
+            "end_time": "00:09:14,040",
+            "text": "Madness and art.  That old bear.  The idea that to do anything creative, you must suffer for it.  Because to do otherwise, to let the machine do your work, is just... lazy. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:30,820",
+            "end_time": "00:09:33,660",
+            "text": "Okay, I'm gonna render this out and see how it looks.  Yes, I would like the garlic knots. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:47,180",
+            "end_time": "00:09:49,500",
+            "text": "If you're not suffering.  I wonder if that's why so many YouTubers are talking about burnout.  It's not just that we're suffering, because we certainly are, but we need to be seen suffering.  That our audience needs to see how much this takes out of us.  How even the little, unimportant videos take effort.  Maybe especially the little, unimportant videos.  The ones we do just to stay sharp.  Stay seen.  Stay afloat for another month. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:26,180",
+            "end_time": "00:10:28,640",
+            "text": "Okay, you can see a little bit of wibbliness there.  This is less than a second.  This is less than a second of a loop.  Wow, it kind of just looks like I'm, like, wobbly and behind a different texture, huh?  Yeah, it really doesn't look like a person painted it.  I don't know what to do about that.  Make video good. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:11:08,120",
+            "end_time": "00:11:12,660",
+            "text": "Artists, unlike art, don't get an afterlife.  We only have the one.  And too many of us don't have what Van Gogh had.  I'm not talking about genius or madness, but the support he had.  The brother who paid for his paints and his treatment, the network of painters who inspired him, the doctor who loved and nursed him, the patronage required to stay afloat.  Loving Vincent is a minor miracle of art.  Then again, all art is a minor miracle. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:11:47,400",
+            "end_time": "00:11:48,640",
+            "text": "Oh, okay.  Okay, so it looks like the best way to get the Loving Vincent effect is to hire a hundred professional animated painters and do it for three or four years non-stop to do every frame just right.  Damn it. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

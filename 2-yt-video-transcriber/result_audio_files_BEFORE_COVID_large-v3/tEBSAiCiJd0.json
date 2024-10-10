@@ -1,0 +1,37 @@
+﻿{
+    "yt_video_id": "tEBSAiCiJd0",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:02,940",
+            "end_time": "00:00:04,800",
+            "text": "We need you on set right now.  This is a Fox Nation green room.  Fox Nation? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:07,760",
+            "end_time": "00:00:13,120",
+            "text": "Fox Nation is the new entertainment service from the good folks over at Fox News that celebrates America. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:13,280",
+            "end_time": "00:00:15,120",
+            "text": "Start your free trial today. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

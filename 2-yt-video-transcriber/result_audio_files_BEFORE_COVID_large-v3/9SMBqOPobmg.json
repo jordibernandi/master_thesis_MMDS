@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "9SMBqOPobmg",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Splash!  Splash!  This is a classic!  Splash!  Splash!  Splash.  Splash.  Splash, splash.  Splash.  Splash!  This is impressive!  Splash.  This is a classic.  Splash, splash.  Splash.  Splash.  Splash.  Splash.  This is impressive. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:10,860",
+            "end_time": "00:05:11,400",
+            "text": "Splash.  Splash, splash.  This is a classic.  Splash.  Splash. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:04,740",
+            "end_time": "00:06:38,720",
+            "text": "This is a classic Splash. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

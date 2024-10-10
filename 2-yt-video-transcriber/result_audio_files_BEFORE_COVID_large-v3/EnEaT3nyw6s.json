@@ -1,0 +1,45 @@
+﻿{
+    "yt_video_id": "EnEaT3nyw6s",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:00,440",
+            "end_time": "00:00:01,980",
+            "text": "Seriously, Dad, I wanna go!  I told you, it's not that big.  Great-granddaddy couldn't even fit right.  That thing's not to scale.  It's a cartoon.  The real one's bigger than a football field.  For real? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:11,120",
+            "end_time": "00:00:13,080",
+            "text": "Come on, you don't even have to pay for me.  Kids are free! ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:15,760",
+            "end_time": "00:00:17,040",
+            "text": "Alright, alright.  Can't be that big.  Woah! ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:27,260",
+            "end_time": "00:00:27,920",
+            "text": "Told ya, Dad.  You just gotta think bigger. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

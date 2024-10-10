@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "O9rFd1RvncI",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "I now give the floor to the president of Bolivia. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:08,400",
+            "end_time": "00:00:11,460",
+            "text": "I'll play the best part first. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:13,900",
+            "end_time": "00:00:21,020",
+            "text": "President of the United States of America, my brother, Antonio Guterres, Secretary General of the United Nations, fellow. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

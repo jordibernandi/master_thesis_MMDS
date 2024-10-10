@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "nLU7vWtQBnw",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "A little bigger than you thought, huh?  Uh, yeah.  Wanna head inside? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:06,860",
+            "end_time": "00:00:07,500",
+            "text": "Wait a minute, what?  You can go inside? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:11,420",
+            "end_time": "00:00:11,980",
+            "text": "Really, Dad?  Again? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

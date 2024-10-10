@@ -1,0 +1,269 @@
+﻿{
+    "yt_video_id": "AXFm2u4EHrs",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "AMY GOODMAN.  This is Democracy Now!  I'm Amy Goodman.  During Monday's coronavirus press conference, President Trump said, we have a problem that a month ago nobody thought about.  Well, one 17-year-old Seattle resident did.  This is 17-year-old Avi Schiffman, who's been tracking coronavirus cases since December.  His website, ncov2019.live.  We spoke on Friday. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:26,180",
+            "end_time": "00:00:29,000",
+            "text": "Yeah, I started this website around Christmas of last year.  And, I mean, the main goal of it was to provide just an easy way to see the straight facts and the data, you know, without having to make a website that was biased or, you know, full of ads or anything like that.  So, I mean, you can, like, go on a phone and just instantly see, like, the quick facts.  You can see the total amount of cases, the total deaths and, you know, all that kind of information.  And you can get that for individual countries.  and now U.S.  states, too, and all kinds of things.  So, I didn't want to make it hard.  You know, you shouldn't have to go through government websites and download, like, a daily PDF that's probably out of date by the time you read it and, you know, have to go through all kinds of complicated things just to see, you know, the straight facts.  So, that was the main reason why, you know, I wanted to make this website. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:13,660",
+            "end_time": "00:01:16,480",
+            "text": "How did you know what the Trump administration didn't know?  We're talking about last December.  I mean, no one was talking about this in the United States.  Yes, this was a terrible crisis in China.  What first sparked your interest to do this? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:31,700",
+            "end_time": "00:01:39,160",
+            "text": "Yeah, so, I mean, when I started this website, there was less than, like, a thousand total cases, and they were all just in, like, the Wuhan area of China.  So, I saw this on the news kind of a long time ago, and I noticed that it was really hard just to find the information.  And there was a lot of just misinformation spreading.  So, I decided it would be kind of cool to create a website and just kind of make it, like, a central hub of information. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:57,140",
+            "end_time": "00:01:57,980",
+            "text": "And how did you do it?  How did you code this?  How do you know how to do this? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:03,060",
+            "end_time": "00:02:13,500",
+            "text": "Yeah, I mean, I've been programming for about a decade now, but I've only been doing web development for a couple months, so a lot of it was, you know, just kind of learning as I went along.  I mean, you can learn, like, anything online.  I just kind of, you know, if I had a question, I didn't know how to do a certain thing, I just went on Google and searched it up, figured out how to do it, and eventually got it to work. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:24,300",
+            "end_time": "00:02:27,280",
+            "text": "So, talk about how this website works.  I mean, we're using it every single day at Democracy  Now!,  because right before we go on the air, we want to give people the latest figures.  How often are you updating this?  How does this automatically update for each country in the world? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:44,400",
+            "end_time": "00:02:47,220",
+            "text": "So, the entire website updates every minute or so.  And the way it works is with something called web scraping.  So, I'm able to input websites such as, you know, let's say Korea.  They have a local government health department kind of website that updates those information.  those numbers all the time.  So, I'm able to web-scrape those tables and stuff and get the latest information.  And then there's also plenty of news sources as well.  So, there's plenty of reputable news sources.  In Korea, there's one called Yonhap, I believe, that's pretty reputable.  And sometimes they're able to get the information faster than those local Korean government sites.  So, it goes around, you know, for all those kind of places.  China, for example, every province has their own health department kind of website, and they have all kinds of information and all the numbers.  And I'm able\u2014I basically just wrote a script that every minute or so just goes to those websites and downloads the latest information.  AMY GOODMAN. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:41,840",
+            "end_time": "00:03:45,340",
+            "text": "So, talk about the way you've broken it down at the top.  When you hit the website, we see it starts out with, explain each of the set of numbers before you go into the countries, and then you break down the countries. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:00,020",
+            "end_time": "00:04:06,760",
+            "text": "Yeah, so right now, as soon as you go to the website, especially on a mobile device, you just see the quick facts.  You know, you see the totals of, you know, the deceased and infected and recovered.  And then you're able to see individual tables that you can sort and search.  So, let's say I want to sort specifically Europe just by how many deceased there were.  Then I'm able to sort it that way, and I can see all that kind of information for individual countries.  And I've been working to break it down.  So, for example, the United States, you can see the individual states.  You can see the same thing for Australia.  And later tonight, I'll probably have something for other places, too, like India, where you can see the individual kind of provinces, state, region, areas. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:44,980",
+            "end_time": "00:04:50,820",
+            "text": "AMY GOODMAN- So, you have the number of people affected overall in the globe, and then by country, and then by region.  You have the number of people who have died, and you have the number of people who have recovered.  Talk about how that came into being. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:02,740",
+            "end_time": "00:05:04,160",
+            "text": "Yeah, so that was kind of interesting.  So, that wasn't there for quite a while.  And I started to get a lot of emails saying that the site was kind of overly negative.  And I decided that it would be really cool if I could show how many people were recovering, to give people a more positive outlook and maybe more hope.  So, I added that to the quick facts.  In every single country, you can see how many people have recovered, which I think gives people a lot of hope, because you can see, in places like Korea, I think they reported more people that recovered.  today than people that had been infected, which is really big.  And I'm also working on things like a vaccine tracker to continue making it more positive, because it shouldn't have to be, you know, super negative.  and you only see, you know, the amount of people that have died.  AMY GOODMAN. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:46,340",
+            "end_time": "00:05:48,800",
+            "text": "What does a vaccine tracker mean, Avi? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:50,640",
+            "end_time": "00:06:01,920",
+            "text": "Yeah, so, around the world, there's, you know, plenty of governments and private health kind of companies that are working on antiviral medications, and there are vaccine trials going on.  So, right now, there is no cure, but, you know, plenty of people are working on some kind of preventative measures.  So, I thought it would be kind of interesting for people to kind of track that, I guess, you know, track their progress and how far they are into these clinical trials, you know, what stage they're in, and all that kind of cool stuff. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:20,600",
+            "end_time": "00:06:20,860",
+            "text": "AMY GOODMAN.  So talk about who is watching this.  I mean, we're talking about\u2014are you at 12 million now? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:29,240",
+            "end_time": "00:06:31,540",
+            "text": "Right now, I'm at about 35 million. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:33,400",
+            "end_time": "00:06:37,480",
+            "text": "You're at 35 million users of your website. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:37,520",
+            "end_time": "00:06:42,560",
+            "text": "The past 24 hours, yeah, the past 24 hours has been about 6.5 million visitors.  So, it's a lot of pressure. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:44,340",
+            "end_time": "00:06:45,360",
+            "text": "I mean, this is astounding.  How many people outside the United States, inside, where are most of the people viewing your website from? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:52,160",
+            "end_time": "00:06:52,260",
+            "text": "Yeah.  So, what's really interesting is that only about 60 percent of my traffic is from the United States, which means that I'm able to see it breaking down per country.  And actually, I get a lot of visitors from places like Taiwan and, you know, United Kingdom and France and a lot of places in Europe and Asia visit my website, too.  So, that's why I'm also working on translations, because, you know, if you're in Taiwan, you might like to see the website in Chinese more than English.  So, I'm working on things like that, too.  AMY GOODMAN. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:21,600",
+            "end_time": "00:07:29,880",
+            "text": "And what have you been able to learn about the transmission of the disease, of COVID-19, as a result of your tracking? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:32,440",
+            "end_time": "00:07:45,080",
+            "text": "So, one thing that's been really interesting to see is that you can see countries like Iran and South Korea\u2014they used to have, you know, pretty similar kind of case counts, but you'd see that Iran would have, you know, five times more deaths, which is just insane.  So, I think it's really interesting that you're able to see the kind of difference in fatality rates, depending on the country's healthcare system and how they're dealing with it, you know, transparency-wise. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:57,140",
+            "end_time": "00:07:57,520",
+            "text": "AMY GOODMAN.  Who taught you to code? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:02,260",
+            "end_time": "00:08:08,340",
+            "text": "I just\u2014I learned myself just watching YouTube videos and just reading online kind of articles and things.  I mean, you can learn anything online.  You can learn underwater basket weaving, for all you want.  I mean, there's just so much great resources out there, and I think that's what's really cool about the Internet.  I mean, I can just go on YouTube, and I can find a 14-hour-long tutorial on how to code websites.  You know, there's anything out there. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:24,700",
+            "end_time": "00:08:25,420",
+            "text": "AMY GOODMAN.  So, you're 17 years old.  You're a high school junior.  School is now out.  You code hours a day anyway, even with school.  What are your plans now that Mercer Island High School, like the Seattle school system or many of the schools within it, are\u2014will have ended? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:43,760",
+            "end_time": "00:08:51,560",
+            "text": "Yeah, now that it's closed, I'm able to work on the website a lot more and stay up, you know, later without having to worry about going to school in the morning.  So\u2014and then it's also pretty helpful, you know, just because there\u2014like, for example, there's a student that's helping me with media things and going through my emails and stuff.  So, now that school's out, you know, more people are able to help me.  that I know personally.  So, yeah, it's been really cool. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:07,660",
+            "end_time": "00:09:08,060",
+            "text": "AMY GOODMAN.  And finally, if you can talk about\u2026 You are\u2014this is not just sort of an academic project.  This is\u2014you are documenting a life-and-death moment, not only in the United States, but all over the world.  If you can talk about the message you have for other youth and also the conversations you're having with people off and online about how to protect the most vulnerable and just what this has meant for you.  world and what young people can do. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:48,420",
+            "end_time": "00:10:00,860",
+            "text": "Yeah, so I think a really interesting thing about this is that we're at the point where we can use technology and, you know, all kinds of great online kind of things with big things like world events, for example, this global pandemic.  You know, when Ebola came out or, you know, SARS or something like that, there wasn't just, like, a website you could go to easily on a phone and just see these stats updated every minute.  So, I think it's really interesting how I can help combat misinformation and just provide the straight facts.  And also that, you know, this is just so cool how you can combine technology and global health together to just make something really neat.  And I hope it inspires a lot of people to, you know, maybe learn programming and make their own tracker in the future, because, you know, the more information that's easily accessible, the better.  You know, you shouldn't have to read Korean government websites to just know how many people are infected in Korea, so. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:39,600",
+            "end_time": "00:10:40,140",
+            "text": "AMY GOODMAN.  Well, I finally want to ask you about another 17-year-old, the Swedish climate activist Greta Thunberg, known for her Fridays for Future school strikes.  She just called for digital strikes during the coronavirus outbreak instead of the mass public events that happen in many communities.  She tweeted, We can't solve a crisis without treating it as a crisis, and we must unite behind experts and science.  This, of course, goes for all crises.  Now the experts urge us to avoid big public gatherings for a better chance, to flatten the curve and slow the spreading of the coronavirus.  We, the young people, are the least affected by this virus, but it's essential that we act in solidarity with the most vulnerable and that we act in the best interest of our common society.  Had you heard about Greta Thunberg?  And what are your final thoughts, Avi? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:11:34,980",
+            "end_time": "00:11:36,140",
+            "text": "Yeah, I mean, I agree.  It's definitely a big thing that we're able to use all these resources.  You know, as myself, you know, I'm just 17, but it's really cool that I'm able to provide\u2014you know, there's\u2014for example, there's a wiki page on the site that has all kinds of information, you know, what to do if you're infected or, you know, the symptoms and kind of things.  And I think it's really cool that I'm able to put that information out there for the rest of the world and all kinds of adults, that way they can just, you know, easily access it.  AMY GOODMAN. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:04,100",
+            "end_time": "00:12:06,340",
+            "text": "Well, Avi Schiffman, I want to thank you for being with us.  Avi is 17 years old, high school junior at Mercer Island High School, which has closed.  It's right outside Seattle, Washington.  He developed this most remarkable coronavirus tracker.  And finally, Avi, when I was asking you how you pronounce the name of your website, you said you might be changing it.  Tell us the website again and what you're thinking of changing it to, what you\u2014why you came up with that name. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:30,540",
+            "end_time": "00:12:33,200",
+            "text": "AVI SCHIFFMAN.  Sure.  So, right now, the website domain is ncov2019.live, which is pretty hard to, you know, even say or remember.  So, I mean, that used to be the unofficial name of the virus.  But now that it's changed, I'd like to rename the website.  I bought a domain called germtracker.com.  That way, it's so much easier to remember.  And that way, I can also use it in the future for more global pandemics.  I mean, because, you know, there's only going to be another big thing a couple of years from now.  And, you know, I'll be the first one to make a tracker for it.  AMY GOODMAN. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:13:03,520",
+            "end_time": "00:13:05,200",
+            "text": "Well, I want to thank you so much, Avi.  Again, all the very, very best to you, to your family, to the community.  And thank you for helping the entire community, not only in this country, but around the world.  Avi Schiffman, 17-year-old high school junior, speaking to us from Seattle, Washington.  AMY GOODMAN.  That does it for our show.  Democracy Now!  is produced by a remarkable group of people.  Thaymari Astujo, Adriano Contreras, Maria Torres Sainz.  A special thanks to Mike DeFilippo, Miguel Nogueira.  Happy birthday to Julia Thomas.  And thank you so much to Becca Staley.  I'm Amy Goodman. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

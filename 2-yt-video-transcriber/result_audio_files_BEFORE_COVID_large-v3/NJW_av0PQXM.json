@@ -1,0 +1,37 @@
+﻿{
+    "yt_video_id": "NJW_av0PQXM",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:20,620",
+            "end_time": "00:00:21,400",
+            "text": "Good morning, Wagee.  You're two minutes late.  Get in, KG. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:24,000",
+            "end_time": "00:00:28,780",
+            "text": "I work nine to five and I'm falling fast.  When I was a wage cop. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:38,120",
+            "end_time": "00:00:39,080",
+            "text": "Can you come in tomorrow?  Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo! ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

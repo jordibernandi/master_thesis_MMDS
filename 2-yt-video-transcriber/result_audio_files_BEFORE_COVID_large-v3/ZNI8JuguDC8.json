@@ -1,0 +1,53 @@
+﻿{
+    "yt_video_id": "ZNI8JuguDC8",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Well, hi everyone.  Greetings from Northern Michigan.  This is Bob the Science Guy.  Well, this little beauty is a laser ring gyroscope, which is a precision navigation tool.  Let's have a closer look at it, see if we can figure out how it works and why it can measure the rotation of the Earth.  Now let's turn this over to Bob from Globusters to tell us how a gyroscope can be used to measure the rotation of the Earth. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:28,500",
+            "end_time": "00:00:34,440",
+            "text": "If the Earth is spinning at one rotation every 24 hours, that means that every hour it has to turn 15 degrees.  And if the gyroscope is mounted anywhere on Earth, it's going to drift.  In today's 21st century navigation systems, they're using what's called a ring laser gyroscope.  It is extremely precise.  If we could simply get one of these ring laser gyroscopes, we would be able to prove once and for all that there is no rotation to the earth.  One of the people in the community actually purchased one for $20,000.  But what we found is, is when we turned on that gyroscope, we found that we were picking up a drift, a 15 degree per hour drift. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:12,940",
+            "end_time": "00:01:16,100",
+            "text": "Don't, don't, don't, don't, don't, don't, don't. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:29,600",
+            "end_time": "00:01:32,820",
+            "text": "Now here's a close-up of a ring laser gyroscope.  As you notice, it forms a rough triangle.  Now the side that's closest to us, that black plug, is the light source.  What happens is it emits laser light which is of uniform frequency, and that laser light goes left and right.  Then it reflects off those plugs in the corners and is angled back towards the apex of the far point.  Now one thing that is important to note is that a laser ring gyro only detects rotation clockwise and counterclockwise in one plane.  In an aircraft inertial reference system navigation package, there are three such laser gyros.  One to detect pitch, another to detect yaw, and the last to detect roll.  They do this using something called the Sagnac effect.  It's named after the French physicist that discovered it back in 1913.  Now to visualize this, let's imagine this circular path.  Light starts at the bottom and works its way around to the top.  Light can also work its way around the other way and end up at the same point.  If the light is released simultaneously, it comes around and reaches the end at the same time.  Now if the track is rotating, what will happen is the light will be released at the same time, but one side will reach the detector at the end before the other side.  Now it's pretty easy to visualize that if you can detect the difference in time from the light from one side reaching the detector to the other, you can get an idea of the rotation speed.  We can also do this with a triangular course, and the result is you have an instrument with no moving parts that is extremely sensitive to rotation.  Now let's do a quick comparison between a standard mechanical gyro and a ring laser gyro.  The mechanical gyro on the left has got a spinning disc with rigidity and space due to conservation of angular momentum.  It will measure in the X, the Y, and the Z axis.  It is heavy and uses very delicate mechanical connections.  A ring laser gyro on the other hand only measures in one axis, but it has absolutely no moving parts.  You can see the laser light generator on the right And then the path of the laser is outlined in the red.  Now three of these laser ring gyros are mounted in the inertial reference system of planes.  It's bolted directly to the frame and moves with the aircraft.  It's not on gimbals.  Now these are two of the laser ring gyros.  The first is mounted on the side and that measures pitch of the aircraft.  The second is on top.  and that measures yaw, which is the side-to-side motion, and the third is in the back, and that measures the roll of the aircraft.  As noted, the advantages over a mechanical gyroscope is these are much more sensitive, they are lighter, and they have no moving parts.  Now the next thing I want to talk about is the interference patterns, because this is how the laser ring gyro detects rotation.  If you were to imagine a pond, and you threw a brick into the middle of the pond, you would get ripples of water going out from where that brick hit the pond.  Now looking at this from the top, you might see a pattern that looks something like this.  If you add a second brick, you'll see that you have two sets of ripples, which consist of peaks and troughs.  A high point on the ripple, and then the low point between the ripples.  These will interfere with each other and cause resonance nodes in what are called standing waves.  The study of these interference patterns in standing waves is called interferometry, and it's a way of determining what's causing those waves.  Now on a laser ring gyroscope, these come out as a series of light and dark colored bars.  As the ring moves, the bars tend to move as well.  The direction and speed will determine the rate of turn or rotation.  On the rotating earth, this is 15 degrees per hour and is easily measured with the gyroscope.  I'll let the professionals describe the fine details of the laser ring gyroscope.  for those of you that are interested in the actual operation of the device. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:34,700",
+            "end_time": "00:06:37,680",
+            "text": "The ring laser gyro utilizes the Sagnac effect.  It is basically a triangular glass prism containing drilled tubular cavities.  This is a cathode.  Its function is to emit photons which are minute particles of light.  There are two anodes which are of opposite electrical polarity to the cathode.  A large potential difference is maintained between the cathode and both anodes, which causes the photons to be powerfully attracted towards the anodes.  The potential difference between the cathode and each of the anodes is the same, and so the photons are equally attracted to both.  The light therefore divides, approximately half of it travelling clockwise and half anticlockwise.  The drilled tubular cavities are filled with a helium and neon gas mixture.  This acts as a conducting medium, and so the light is channeled down these specific paths.  One of the defining characteristics of lasers is that they produce what is known as coherent light, that is, light at a single frequency.  Normal light, such as sunlight, or light from an electric bulb, is usually known as white light, but it actually contains all the colours of the visible spectrum, which are all at different frequencies.  Laser light is not like this.  It is one colour only, usually a kind of pinkish orange, and each beam has only one frequency.  The continuous circulation of the light in each direction has an amplifying action which builds up to a saturation point.  At this point standing waves form.  When this happens it is called lasing.  This lasing can only occur if there is a whole number of wavelengths in the path distance.  This determines the laser light frequency, which will be the same for both the clockwise and the anticlockwise light in a stationary prism.  However, if the prism rotates about its sensitive axis, the number of wavelengths in each path length remains the same, but the path lengths change.  This means that the frequencies must change.  Conversion of the frequency change into a measure of angular rotation rate is achieved by use of interference pattern technology.  With two light sources at the same frequency and phase, the pattern remains static.  But if the frequencies alter, the pattern moves.  The direction and rate of pattern movement are a measure of the aircraft's rotation direction and rate.  The laser gyro contains a photoelectric detector.  It can tell if the interference pattern is static and, if it is moving, it can detect the direction and rate of rotation. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:30,860",
+            "end_time": "00:09:36,120",
+            "text": "I do want to make a note as far as gyroscopes on aircraft in general.  The purpose of gyroscopes, be they mechanical or these laser ring gyros in the inertial reference system, are to locate the aircraft's position in respect to the earth and in respect to whether it's in pitch, roll, yaw, or some combination thereof.  It is not specifically designed to check for the rotation of the earth.  the fact that it is so sensitive that it will pick up the rotation of the Earth is actually viewed as an error for its stated purpose of navigation.  This rabbit hole's too deep for me.  Feel my brain getting real sore Up above the side sky. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

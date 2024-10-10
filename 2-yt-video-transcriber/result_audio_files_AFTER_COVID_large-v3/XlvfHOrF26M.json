@@ -1,0 +1,165 @@
+﻿{
+    "yt_video_id": "XlvfHOrF26M",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Let me drag you back to programming for a sec.  What three, maybe three to five programming languages should people learn, do you think?  Like if you look at yourself, what did you get the most out of from learning? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:16,180",
+            "end_time": "00:00:19,260",
+            "text": "Well, so everybody should learn C and assembly.  We'll start with those two. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:20,860",
+            "end_time": "00:00:21,300",
+            "text": "Assembly? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:21,640",
+            "end_time": "00:00:21,780",
+            "text": "Yeah.  If you can't code in assembly, you don't know what the computer's doing.  You don't understand, like, you don't have to be great in assembly, but you have to code in it.  And then, like, you have to appreciate assembly in order to appreciate all the great things C gets you.  And then you have to code in C in order to appreciate all the great things Python gets you.  So I'll just say assembly C in Python.  We'll start with those three. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:43,400",
+            "end_time": "00:00:54,000",
+            "text": "The memory allocation of C and the fact that assembly gives you a sense of just how many levels of abstraction you get to work on in modern day programming. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:54,140",
+            "end_time": "00:00:57,900",
+            "text": "Yeah, graph coloring for assignment, register assignment in compilers.  You know the compiler, your computer only has a certain number of registers, yet you can have all the variables you want in a C function. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:04,599",
+            "end_time": "00:01:09,000",
+            "text": "So you get to start to build intuition about compilation, like what a compiler gets you.  What else? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:11,960",
+            "end_time": "00:01:17,360",
+            "text": "Well, then there's kind of... So those are all very imperative programming languages.  Yeah.  Then there's two other paradigms for programming that everybody should be familiar with.  One of them is functional.  You should learn Haskell and take that all the way through.  Learn a language with dependent types like Coq.  Learn that whole space, like the very PL theory heavy languages. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:36,220",
+            "end_time": "00:01:37,620",
+            "text": "And Haskell is your favorite functional?  Is that the go-to, you'd say? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:39,960",
+            "end_time": "00:01:41,860",
+            "text": "Yeah, I'm not a great Haskell programmer.  I wrote a compiler in Haskell once.  There's another paradigm.  And actually, there's one more paradigm that I'll even talk about after that that I never used to talk about when I would think about this.  But the next paradigm is learn Verilog or VHDL.  Understand this idea of all of the instructions execute at once.  If I have a block in Verilog and I write stuff in it, it's not sequential.  They all execute at once.  And then think like that.  That's how hardware works. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:11,220",
+            "end_time": "00:02:13,340",
+            "text": "So I guess assembly doesn't quite get you that.  Assembly is more about compilation and Verilog is more about the hardware, like giving a sense of what actually the hardware is doing. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:22,040",
+            "end_time": "00:02:25,620",
+            "text": "Assembly, C, Python are straight, like they sit right on top of each other.  In fact, C is, well, C is kind of coded in C, but you could imagine the first C was coded in assembly and Python is actually coded in C. So, you know, you can straight up go on that. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:37,120",
+            "end_time": "00:02:37,760",
+            "text": "Got it.  And then Verilog gives you... That's brilliant.  Okay. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:41,040",
+            "end_time": "00:02:42,680",
+            "text": "And then I think there's another one now.  Everyone should... Karpathy calls it Programming 2.0, which is learn a... I'm not even going to... Don't learn TensorFlow.  Learn PyTorch. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:52,100",
+            "end_time": "00:02:52,900",
+            "text": "So machine learning.  We've got to come up with a better term than Programming 2.0 or... But yeah. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:59,560",
+            "end_time": "00:03:00,320",
+            "text": "It's a programming language.  Learn it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:03,440",
+            "end_time": "00:03:05,600",
+            "text": "I wonder if it can be formalized a little bit better.  It feels like we're in the early days of what that actually entails. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:10,560",
+            "end_time": "00:03:11,620",
+            "text": "Data-driven programming? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:12,680",
+            "end_time": "00:03:14,080",
+            "text": "Data-driven programming, yeah.  But it's so fundamentally different as a paradigm than the others.  It almost requires a different skill set.  But you think it's still, yeah.  And PyTorch versus TensorFlow, PyTorch wins. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:30,080",
+            "end_time": "00:03:30,780",
+            "text": "It's the fourth paradigm.  It's the fourth paradigm that I've kind of seen.  There's like this, you know, imperative functional hardware.  I don't know a better word for it.  And then ML. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

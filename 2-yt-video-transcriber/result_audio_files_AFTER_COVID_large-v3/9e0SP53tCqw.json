@@ -1,0 +1,13 @@
+﻿{
+    "yt_video_id": "9e0SP53tCqw",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "There's a false theory that there's some correlation between the location of deployments of 5G networks and the outbreaks of the COVID-19 coronavirus at that location.  To demonstrate that this theory is false, I'm going to use the COVID-19 tracker on bing.com and the Ookla 5G deployment map on speedtest.net.  This will allow us to identify areas of high and low density of both 5G and COVID-19.  Let's start at the starting point, Wuhan.  in Hubei province in China.  There's a huge difference between Hubei and the rest of China with coronavirus.  Is this reflected in the 5G coverage?  No, in fact, there's plenty of other provinces and cities with similar or higher deployments of 5G and hardly any coronavirus, so no correlation there.  Just over the ocean, we have South Korea with way more 5G deployments than China.  And yet South Korea has been a coronavirus success story with only 200 fatalities and a flattening curve.  So there's no correlation there.  Next, people think about Italy and Spain, both countries having suffered terribly with over 17,000 deaths in Italy and 14,000 in Spain.  So is there a lot of 5G in Italy?  Well, it looks like there's a big hotspot right there.  Let's zoom in.  Actually, we can see that nearly all of them, 799 of them, are in Switzerland, and only seven in Italy.  Italy only has seven 5G deployments.  Spain only has 18.  Switzerland has 100 times as many 5G deployments as Italy, and yet it has 1 20th the number of deaths.  So there's no correlation there.  What about other COVID-19 hotspots?  Well, if we take a wider view, we can see two over here, Turkey and Iran.  Iran has 4,000 deaths.  Turkey has 800 deaths.  Both countries have zero 5G deployment.  Iran with 4,000 deaths has zero 5G.  So definitely no correlation there.  The other big hotspot is New York.  Certainly they have a lot of 5G there.  But then so do other cities across the US.  Even nearby, in Washington, DC, and Maryland, there's a similar 5G density, but hardly any COVID-19 deaths compared to New York.  So there's really no correlation there.  Of course, the whole idea of 5G causing coronavirus is ridiculous.  There's no correlation.  The virus spreads like a virus, getting a hold in a community, gaining momentum as it infects more people, and responding to social distancing measures while people use their phones more than ever before.  It's a brutal, nasty virus, but it's just a virus. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

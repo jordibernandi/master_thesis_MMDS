@@ -1,0 +1,141 @@
+﻿{
+    "yt_video_id": "o1MZOtKYnfM",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Well, I'm talking about content moderation.  I'm talking about individuals, websites, hashtags, phrases to ban.  Is it your testimony that you do not communicate with Twitter or Google about content moderation, about individuals, websites, phrases, hashtags to ban?  Just yes or no.  Do you communicate with Twitter or Google about coordinating your policies in this way? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:25,900",
+            "end_time": "00:00:27,960",
+            "text": "Senator, we do not coordinate our policies.  Senator, I'm not aware of anything specific, but I think it would be probably pretty normal for people to talk to their peers and colleagues in the industry. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:44,060",
+            "end_time": "00:00:45,480",
+            "text": "It would be normal, but you don't do it? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:46,680",
+            "end_time": "00:00:54,820",
+            "text": "No, I'm saying that I'm not aware of any particular conversation, but I would expect that some level of communication probably happens.  But that's different from coordinating what our policies are or our responses in specific instances. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:01,180",
+            "end_time": "00:01:04,280",
+            "text": "Well, fortunately, I understand that the task platform is searchable.  So will you provide a list of every mention of Google or Twitter from the task platform to this committee? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:13,940",
+            "end_time": "00:01:17,300",
+            "text": "Senator, that's something that I can follow up with you and your team after. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:18,580",
+            "end_time": "00:01:22,960",
+            "text": "Yes or no, I'm sure you can follow up with the list, but why don't you commit while I've got you here under oath.  It's so much better to do this under oath.  Will you commit now to providing a list from the tasks platform of every mention of Google or Twitter? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:34,040",
+            "end_time": "00:01:40,800",
+            "text": "Senator, respectfully, without having looked into this, I'm not aware of any sensitivity that might exist around that.  So I don't think it would be wise for me to commit to that right now. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:47,100",
+            "end_time": "00:01:55,380",
+            "text": "How many items on the task platform reflect that Facebook, Twitter and Google are sharing information about websites or hashtags or platforms that they want to suppress? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:59,240",
+            "end_time": "00:02:00,540",
+            "text": "Senator, I do not know. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:02,540",
+            "end_time": "00:02:10,360",
+            "text": "Will you provide a list of every website and hashtag that Facebook content moderation teams have discussed banning on the task platform? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:12,620",
+            "end_time": "00:02:19,760",
+            "text": "Senator, again, I would be happy to follow up with you or your team to discuss further how we might move forward on that. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:20,500",
+            "end_time": "00:02:21,500",
+            "text": "Will you commit to it here?  Senator Cruz and Senator Lee both asked you for lists of individuals, websites, entities that have been subject to content moderation.  You expressed doubt about whether any such information exists, but you've also now said that the task website, you've acknowledged the task platform exists.  that it is searchable.  So will you commit to providing the information you have logged on the task website about content moderation that your company has undertaken?  Yes or no? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:48,280",
+            "end_time": "00:02:55,220",
+            "text": "Senator, I think it would be better to follow up once I've had a chance to discuss with my team what any sensitivity around that would be.  that might prevent the kind of sharing that you're talking about.  But once I've done that, I would be happy to follow up. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:04,960",
+            "end_time": "00:03:06,800",
+            "text": "All right, so you won't commit to do it here.  We could, of course, subpoena this information, but I'd much rather get it from you voluntarily.  But I think, let everybody take note that Mr.  Zuckerberg has now repeatedly refused to provide information that he knows that he has and has now acknowledged that he has, that Tasks has under oath.  Let me switch to a different topic.  Mr.  Zuckerberg, tell me about Sentra.  What is the Facebook internal tool called Sentra? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:30,600",
+            "end_time": "00:03:33,860",
+            "text": "Senator, I'm not aware of any tool with that name. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:33,900",
+            "end_time": "00:03:36,460",
+            "text": "Well, Matt, let me see if this refreshes your memory.  There's a demonstrative now over my shoulder.  Centra is a tool that Facebook uses to track its users, not just on Facebook, but across the entire Internet.  Centra attacks different profiles that a user visits.  their message recipients, their linked accounts, the pages they visit around the web that have Facebook buttons.  Centra also uses behavioral data to monitor users' accounts, even if those accounts are registered under a different name, and you can see a shot here, a screenshot provided to us of the Centra platform.  We've blocked out the user's name in the interest of privacy, although you can see this individual's birth date and age, when they first started using Facebook, their last login, as well as all manner of trackings.  How many different devices have they used to access Facebook?  How many different accounts are associated with their name?  What accounts have they visited?  What photos have they tagged? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

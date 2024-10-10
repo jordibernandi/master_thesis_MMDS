@@ -1,0 +1,101 @@
+﻿{
+    "yt_video_id": "Tc0NIkvhMho",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Hello, Frank.  Say hi. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:03,840",
+            "end_time": "00:00:04,019",
+            "text": "Hello. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:07,660",
+            "end_time": "00:00:08,680",
+            "text": "So we're in the hospital.  Frank watched a movie.  What movie did you watch? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:12,440",
+            "end_time": "00:00:12,840",
+            "text": "Rocky II. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:14,000",
+            "end_time": "00:00:14,300",
+            "text": "Okay.  And what was the first scene that stood out to you? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:19,380",
+            "end_time": "00:00:21,520",
+            "text": "The scene in the beginning in the hospital.  Him getting his operation on his first fight.  Operation. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:31,360",
+            "end_time": "00:00:31,660",
+            "text": "Okay. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:32,040",
+            "end_time": "00:00:32,400",
+            "text": "And then... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:36,820",
+            "end_time": "00:00:37,760",
+            "text": "What happened after that? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:41,320",
+            "end_time": "00:00:44,280",
+            "text": "And then he realized his limitations. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:44,780",
+            "end_time": "00:00:45,260",
+            "text": "What were they? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:46,100",
+            "end_time": "00:00:48,060",
+            "text": "And he couldn't see. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

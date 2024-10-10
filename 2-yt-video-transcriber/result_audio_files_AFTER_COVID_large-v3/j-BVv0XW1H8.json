@@ -1,0 +1,245 @@
+﻿{
+    "yt_video_id": "j-BVv0XW1H8",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "So a lot of people ask me that are a little bit tangential to the programming, the computing world, and they're interested to learn programming, like all kinds of disciplines that are outside of the particular discipline of computer science.  What advice do you have for people that want to learn how to program or want to either taste this little skill set or discipline or try to see if it can be used somehow in their own life? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:32,400",
+            "end_time": "00:00:33,380",
+            "text": "What stage of life are they in? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:36,660",
+            "end_time": "00:00:40,660",
+            "text": "One of the magic things about the internet, of the people that write me, is I don't know. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:40,880",
+            "end_time": "00:00:42,580",
+            "text": "Because my answer is different.  My daughter is taking AP Computer Science right now.  Hi, Joni.  She's amazing and doing amazing things, and my son's beginning to get interested, and I'll be really curious where he takes it.  I think his mind actually works very well for this sort of thing, and she's doing great.  But one of the things I have to tell her all the time, she points, well, I want to make a rhythm game.  So I want to go for two weeks and then build a rhythm game.  Show me how to build a rhythm game.  Start small.  Learn the building blocks and how to take the time.  Have patience.  Eventually, you'll build a rhythm game.  I was in grad school when I suddenly woke up one day over the Royal East.  And I thought, wait a minute.  I'm a computer scientist.  I should be able to write Pac-Man in an afternoon.  And I did.  Not with great graphics.  It was actually a very cool game.  I had to figure out how the ghost moved and everything.  And I did it in an afternoon.  And Pascal... on an old Apple IIGS.  But if I had started out trying to build Pac-Man, I think it probably would have ended very poorly for me.  Luckily, back then, there weren't these magical devices we call phones and software everywhere to give me this illusion that I could create something by myself from the basics inside of a weekend like that.  I mean, that was a culmination of years and years and years right before I decided, oh, I should be able to write this.  And I could.  So my advice, if you're early on, is you know you've got the internet.  there are lots of people there to give you the information.  find someone who cares about this.  remember they've been doing it for a very long time.  take it slow learn the little pieces get excited about it and then keep the big project you want to build in mind.  you'll get there soon enough because as a wise man once said life is long.  sometimes it doesn't seem that long but it is long and you'll have enough time to to build it all out it.  all the information is out there but start small you know, generates Fibonacci numbers.  That's not exciting, but it'll get you.  Well, there's only one programming language.  It's Lisp.  But if you have to pick a programming language, I guess in today's day, what would I do?  I guess I'd do. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:40,260",
+            "end_time": "00:02:42,980",
+            "text": "Python is basically Lisp, but with better syntax.  Yeah.  With C syntax.  How about that? ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:02:47,280",
+            "end_time": "00:02:50,260",
+            "text": "So you're going to argue that C syntax is better than anything?  Anyway, also, I'm going to answer Python despite what he said. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:53,680",
+            "end_time": "00:02:57,700",
+            "text": "Tell your story about somebody's dissertation that had a Lisp program in it. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:02:58,040",
+            "end_time": "00:02:58,580",
+            "text": "It was so funny.  This is Dave's.  Dave's dissertation was like Dave McAllister, who was a professor at MIT for a while. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:03,640",
+            "end_time": "00:03:05,500",
+            "text": "And then he came to Bell Labs. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:06,040",
+            "end_time": "00:03:09,040",
+            "text": "And now he's at Technology Technical Institute of Chicago.  A brilliant guy.  Such an interesting guy.  Anyway, his thesis... it was a theorem prover.  And he decided to have as an appendix, his actual code, which of course was all written in Lisp because of course it was.  It's like the last 20 pages are just right parentheses.  It's just wonderful.  It's like, that's programming right there.  Pages upon pages of right parentheses.  Anyway, Lisp is the only real language, but I understand that that's not necessarily the place where you start.  Python is just fine.  Python is good.  If you're, you know, of a certain age, if you're really young and trying to figure it out, graphical languages that let you kind of see how the thing works.  And that's fine, too.  They're all fine.  It almost doesn't matter.  But there are people who spend a lot of time thinking about how to build languages that get people in.  The question is, are you trying to get in and figure out what it is?  Or do you already know what you want?  And that's why I asked you what stage of life people are in, because if you're different stages of life, you would attack it differently. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:07,120",
+            "end_time": "00:04:09,580",
+            "text": "The answer to that question of which language keeps changing.  I mean, there's some value to exploring.  A lot of people write to me about Julia.  There's these more modern languages that keep being invented, Rust and Kotlin.  There's stuff that, for people who love functional languages like Lisp, apparently there's echoes of that, but much better in the modern languages.  And it's worthwhile to... especially when you're learning languages, it feels like it's okay to try one that's not like the popular one. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:41,340",
+            "end_time": "00:04:41,520",
+            "text": "Oh, yeah.  But, you know, you want something simple. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:42,960",
+            "end_time": "00:04:47,140",
+            "text": "And I think you get that way of thinking almost no matter what language.  And if you push far enough, like it can be assembly language, but you need to push pretty far before you start to hit the really deep concepts that you would get sooner in other languages.  But, like, I don't know.  Computation is kind of computation.  It's kind of... Turing equivalent is kind of computation.  And so it matters how you express things, but you have to build out that mental structure in your mind.  And I don't think it super matters which language. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:12,320",
+            "end_time": "00:05:15,660",
+            "text": "I mean, it matters a little because some things are just at the wrong level of abstraction.  I think assembly is at the wrong level of abstraction for someone coming in new.  I think that if you start- For someone coming in new.  Yes.  For frameworks, big frameworks are quite a bit.  um you know you've got to get to the point where i want to learn a new language.  means i just pick up a reference book and i think of a project and i go through it in a weekend.  right you got it.  you got to get there.  you're right though the languages that are designed for that are.  it almost doesn't matter pick the ones that people have built tutorials and infrastructure around to help you get kind of kind of ease into it because it's hard.  i mean i did this little experiment.  um i was teaching intro to cs in the summer as a favor.  uh Which, anyway, I was teaching intro to CS as a favor.  And it was very funny, because I'd go in every single time and I would think to myself, how am I possibly going to fill up an hour and a half talking about for loops, right?  And there wasn't enough time.  Took me a while to realize this, right?  There are only three things, right?  There's reading from a variable, writing to a variable, and conditional branching.  Everything else is syntactic sugar.  The syntactic sugar matters, but that's it.  And when I say that's it, I don't mean it's simple.  I mean, it's hard.  Conditional branching, loops, variable, those are really hard concepts.  So you shouldn't be discouraged by this.  Here's a simple experiment.  I'm gonna ask you a question now.  You ready?  X equals three. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:35,140",
+            "end_time": "00:06:38,160",
+            "text": "Y equals four. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:38,920",
+            "end_time": "00:06:39,360",
+            "text": "What is X?  What is Y? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:42,600",
+            "end_time": "00:06:43,300",
+            "text": "Four. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:43,400",
+            "end_time": "00:06:43,760",
+            "text": "Y equals S. No?  Oh, it's easy.  Y equals X. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:47,660",
+            "end_time": "00:06:48,080",
+            "text": "Y equals X. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:48,260",
+            "end_time": "00:06:48,780",
+            "text": "What is Y?  Three.  That's right.  X equals seven.  What is why? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:56,040",
+            "end_time": "00:07:09,660",
+            "text": "That's one of the trickiest things to get for programmers, that there's a memory and the variables are pointing to a particular thing in memory, and sometimes the languages hide that from you and they bring it closer to the way you think mathematics works. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:10,160",
+            "end_time": "00:07:27,440",
+            "text": "Right, so in fact, Mark Guzdahl, who worries about these sorts of things, or used to worry about these sorts of things anyway, had this kind of belief that actually people, when they see these statements, X equals something, Y equals something, Y equals X, that you have now made a mathematical statement that Y and X are the same. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:29,100",
+            "end_time": "00:07:31,040",
+            "text": "Which you can if you just put like an anchor in front of it. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:07:31,640",
+            "end_time": "00:07:33,800",
+            "text": "Yes, but people, that's not what you're doing, right?  I thought, and I kind of asked the question, and I think I had some evidence for this, it's hardly a study, is that most of the people who didn't know the answer or weren't sure about the answer, they had used spreadsheets.  And so it's by reference or by name, really.  And so depending upon what you think they are, you get completely different answers.  The fact that I could go or one could go two-thirds of the way through a semester and people still hadn't figured out in their heads when you say Y equals X what that meant tells you it's actually hard.  Because all those answers are possible.  And in fact, when you said, oh, if you just put an ampersand in front of it, I mean, that doesn't make any sense for an intro class.  And of course, a lot of languages don't even give you the ability to think about it in terms of ampersand.  Do we want to have a 45-minute discussion about the difference between equal, EQ, and equal in Lisp?  I know you do.  But, you know, you could do that.  This is actually really hard stuff.  So you shouldn't be, it's not too hard.  We all do it, but you shouldn't be discouraged.  It's why you should start small so that you can figure out these things.  You have the right model in your head so that when you write the language, you can execute it and build the machine that you want to build, right? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:46,820",
+            "end_time": "00:09:00,120",
+            "text": "Yeah, the funny thing about programming and those very basic things is the very basics are not often made explicit, which is actually what drives everybody away from basically any discipline, but programming is just another one.  Like even a simpler version of the equal sign that I kind of forget is in mathematics equals is not assignment.  I think basically every single programming language with just a few handful of exceptions equals is assignment.  And you have some other operator for equality.  And even that, everyone kind of knows it.  once you started doing it.  But you need to say that explicitly or you just realize it yourself.  Otherwise you might be stuck for, you said like half a semester, you could be stuck for quite a long time.  And I think also part of the programming is being okay in that state of confusion for a while.  It's to the debugging point.  It's like, I just wrote two lines of code.  Why doesn't this work?  And staring at that for like hours and trying to figure out.  And then every once in a while, you just have to restart your computer and everything works again.  And then you just kind of stare into the void with the tear slowly rolling down your eye. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:10,100",
+            "end_time": "00:10:15,320",
+            "text": "By the way, the fact that they didn't get this actually had no impact on I mean, they were still able to do their assignments.  Because it turns out their misunderstanding wasn't being revealed to them by the problem sets we were giving them. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:23,200",
+            "end_time": "00:10:24,620",
+            "text": "It's pretty profound, actually, yeah. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:24,900",
+            "end_time": "00:10:31,380",
+            "text": "I wrote a program a long time ago, actually for my master's thesis, in C++, I think.  Or C, I guess it was C. And it was all memory management and terrible.  And it wouldn't work for a while.  And it was some kind of, it was clear to me that it was overriding memory.  And I just couldn't, I was like, look, I got a paper to time for this.  So I basically declared a variable at the front in the main that was like 400K, just an array.  And it worked because wherever I was scribbling over memory, it would scribble into that space and it didn't matter.  And so I never figured out what the bug was.  but I did create something to sort of deal with it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:11:05,300",
+            "end_time": "00:11:05,920",
+            "text": "To work around it. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:11:06,260",
+            "end_time": "00:11:08,300",
+            "text": "And it, you know, that's crazy.  That's crazy.  It was okay, because that's what I wanted.  But I knew enough about memory management to go, you know, I'm just going to create an empty array here and hope that that deals with the scribbling memory problem.  And it did.  That takes a long time to figure out.  And by the way, the language you first learned probably does garbage collection anyway, so you're not even going to come across that problem. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

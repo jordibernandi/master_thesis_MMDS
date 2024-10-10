@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "zopdJLvySgQ",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "The 12th Amendment gets no respect.  Indeed, most constitutional law scholars would have a difficult time explaining what it does and why it was needed in the first place.  But I want to tell you how a flaw in the Constitution resulted in two disastrous presidential elections and how the 12th Amendment solved a technical defect in Article II, Section 1 of the Constitution.  The text of Article 2, Section 1 states that members of the Electoral College shall meet in their respective states and vote by ballot for two persons.  In other words, under the original Constitution, there was not a separate vote for president and vice president.  Instead, each elector voted for two persons, and the person with the majority of votes would be president, and the runner-up would be vice president.  However, if there was a tie between two candidates obtaining a majority vote, the election would be decided in the House of Representatives, with each state delegation having one vote.  So each state, not each member of Congress, but each state got one vote in the House to break the tie for president.  The founders didn't anticipate the development of political parties, and that caused a bit of a disaster in the 1796 and 1800 presidential elections.  In 1796, the Federalist candidate, John Adams, came in first and was elected president.  His running mate was Thomas Pinckney, the former governor of South Carolina.  When the Electoral College cast their votes, however, too many Federalist electors withheld their second vote from Pinckney to make sure that he didn't tie with Adams, and that led to the Democratic-Republican candidate Thomas Jefferson becoming Adams' vice president instead of Pinckney.  And then in 1800, Jefferson and Burr both ran as Democratic-Republicans with the expectation that Jefferson would be the president and Burr would be his vice president.  For this to work, the Democratic-Republican electors needed to cast the first of their two electoral votes for Jefferson.  Then, to prevent a tie, one elector needed to withhold his second vote for Burr.  However, no one remembered to withhold that second vote for Burr, and the result was a tie between Jefferson and Burr in the Electoral College.  The election then went to the House of Representatives, where it took six days and 36 ballots before Jefferson was elected president and Burr vice president.  Article 2, Section 1 had created a trap for the unwary, and it was so disastrous that I think the nation had no choice but to amend the Constitution, to avoid that problem ever happening again.  Shortly after the catastrophic election of 1800, the 12th Amendment was proposed by Congress and ratified by the states.  The 12th Amendment fixes both the Adams-Jefferson problem and the Jefferson-Burr problem by requiring separate votes for president and vice president. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:18,080",
+            "end_time": "00:03:30,320",
+            "text": "The 12th Amendment does that by saying that each presidential elector will cast not votes for two persons, but will cast two ballots, one ballot for the presidency, one ballot for the vice presidency.  Whoever wins the presidential ballot is president.  Whoever wins the vice presidential ballot is vice president. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:37,960",
+            "end_time": "00:03:54,560",
+            "text": "Though everyone agreed that there was a problem with Article II, Section 1, there were still a few who opposed the passage of the 12th Amendment, such as Gouverneur Morris of New York, who argued that electors should recognize the importance of giving both votes to men fit for the first office.  Hamilton, however, demolished this argument with a single sentence, retorting, \"...one such fact as the late election of 1800 is worth a thousand  theories.\".  The 12th Amendment isn't very controversial, but it did have a significant effect on the presidential election process.  By correcting the technical defect of Article II, Section 1, it has ensured that the disastrous elections of 1796 and 1800 have never seen an encore performance. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

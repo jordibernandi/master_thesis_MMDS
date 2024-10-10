@@ -1,0 +1,85 @@
+﻿{
+    "yt_video_id": "qtlSu7OhkYE",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "You've probably heard a lot about antibody testing lately.  Antibody testing.  Antibody testing. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:06,260",
+            "end_time": "00:00:07,380",
+            "text": "Antibody test. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:07,520",
+            "end_time": "00:00:09,820",
+            "text": "Let's talk about this study of antibody testing. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:00:10,720",
+            "end_time": "00:00:18,260",
+            "text": "Antibody tests are meant to recognize a past infection, and people are lining up to get tested to see if they've had the coronavirus.  Many tests have hit the market, but there are still questions about how accurate they all are.  Even with a very good test, it's possible to test positive for antibodies even when you don't actually have them. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:31,000",
+            "end_time": "00:00:36,680",
+            "text": "Those tests perform better when there's a high prevalence or high incidence of disease. ",
+            "speaker": {
+                "name": "Speaker 3"
+            }
+        },
+        {
+            "start_time": "00:00:37,300",
+            "end_time": "00:00:44,620",
+            "text": "In other words, we can interpret positive test results more reliably when a significant portion of the population has been infected.  When only a small portion of the population has had the virus, it's harder to have confidence in your individual results.  Say you have a test so good it's 100% sensitive.  That means that every time you show it a sample containing antibodies, it recognizes them.  And say that same test has a 95% specificity.  That means it accurately identifies a sample without antibodies as negative 95% of the time.  But 5% of the time, the test wrongly thinks the antibodies are there.  That's what's known as a false positive.  Now let's say 4% of a city's population has actually had COVID and recovered.  That's a reasonable estimate for many parts of the country outside of hotspots.  Out of 1,000 people, 40 have recovered from COVID.  They test positive and have the antibodies.  The rest of the people, 960 of them, don't have the antibodies, so they should get a negative test result, and most will.  But remember, 5% of them get a false positive, meaning they get a positive test result even though they don't have the antibodies.  In this scenario, it's actually more likely your positive test is wrong than right.  In other words, you're still more likely not to have the antibodies.  But all 88 people think they have the antibodies.  If they all go back to normal life, more than half will still be at risk of catching and spreading the coronavirus.  Now, let's imagine a group of 1,000 healthcare workers who come in contact with COVID patients every day and have a higher rate of infection.  For them, antibody tests might be more reliable than for the general public.  Let's say 30% of those workers really did have COVID in the past.  In this group, 300 people get true positive results.  The remaining 700 people don't have antibodies, but 35 get false positives.  It's pretty likely in this scenario that a healthcare worker who tests positive for antibodies really has them.  So the rate of infection in the population.  you're testing is really important.  But even if you get a true positive test result, scientists aren't sure yet if that means you won't get the virus again. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:05,620",
+            "end_time": "00:03:09,600",
+            "text": "I mean, we're assuming that if you're infected and you have antibody, you're protected.  And I think that's a reasonable assumption based on our experience with other viruses. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:14,340",
+            "end_time": "00:03:16,560",
+            "text": "The World Health Organization isn't so sure. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:16,820",
+            "end_time": "00:03:26,040",
+            "text": "Right now, we have no evidence that the use of a serologic test can show that an individual is immune or is protected from reinfection. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:27,360",
+            "end_time": "00:03:50,560",
+            "text": "So even if you get a positive antibody test, it doesn't mean you should stop social distancing. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

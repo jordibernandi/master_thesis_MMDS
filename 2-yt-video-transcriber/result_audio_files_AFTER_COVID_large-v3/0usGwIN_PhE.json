@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "0usGwIN_PhE",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:00,260",
+            "end_time": "00:00:03,960",
+            "text": "Mom, mom, can we go inside and get ice cream and see where we live?  What about the zip lines?  We gotta ride the zip lines.  And the animals.  They have animals, mom. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:08,600",
+            "end_time": "00:00:09,400",
+            "text": "Oh, and VR.  Junior, I promise you can do it all.  Woohoo!  Best day ever! ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

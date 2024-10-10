@@ -1,0 +1,549 @@
+﻿{
+    "yt_video_id": "E65ZOuvzcWA",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Hello everyone, welcome back. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:02,340",
+            "end_time": "00:00:04,220",
+            "text": "Thanks Jordan, it's good to be back.  I know it's been a while, you know, family stuff, work stuff, it's sort of all piled up and I was a bit too ambitious considering the time I had on my hands, so I just lost interest in making YouTube videos for a while.  But I'm back now and I really want to get back to work, so got any stupid for me?  Damn, I'm rusty.  I just heard myself.  Of course you do.  Let's have it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:29,120",
+            "end_time": "00:00:31,780",
+            "text": "This time, though, we're getting real sci-fi.  We're talking warp engines, teleportation, and time travel kind of stuff. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:36,520",
+            "end_time": "00:00:38,160",
+            "text": "So you turn to JJ Trek.  Yeah, that's some serious stupid... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:40,700",
+            "end_time": "00:00:46,920",
+            "text": "At the risk of triggering some Einstein enthusiasts, or Neil deGrasse Tyson, well, scientist discretion is advised. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:47,320",
+            "end_time": "00:00:47,620",
+            "text": "Thanks.  You should put that warning in all your videos.  But remember to include Trekkies as well, because JJ Trek?  Really? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:56,380",
+            "end_time": "00:01:02,200",
+            "text": "Let's talk about the speed of light, and more specifically, what, if anything, is faster than it? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:03,380",
+            "end_time": "00:01:11,840",
+            "text": "This is actually an interesting topic, because while no information, including physical objects, including energy, can travel faster than light, there are things that can.  Shadows, for example.  That's okay, though, because a shadow is not a physical object.  It conveys no information.  But that's not what this is about, is it? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:24,140",
+            "end_time": "00:01:28,720",
+            "text": "To begin, this episode was inspired by an early Joe Rogan podcast where he featured Dr.  Stephen Greer, the founder of CSETI, the Center for the Study of Extraterrestrial Intelligence, as well as the Disclosure Project.  He's a man who has brought to light over 4,000 cases of UFO landings and over 3,500 pilot cases of UFO sightings and over 500 reports of whistleblowers from military and government officials reporting on both UFOs as well as ET encounters.  including over a hundred of these reports on videotape. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:53,860",
+            "end_time": "00:01:59,720",
+            "text": "Interestingly though, all of those were shit quality despite everyone nowadays having HD cameras in their pockets.  Isn't that interesting?  And isn't it also interesting that there's an obvious correlation between knowing very little about flying objects and lacking the ability to identify them, and seeing UFOs, unidentified flying objects.  It's never people who work with experimental aircraft who mistake them for flying saucers.  Isn't that funny? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:23,780",
+            "end_time": "00:02:29,140",
+            "text": "What he described in this podcast is that all of these ETs who are visiting the planet, and they're definitely real by the way. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:29,600",
+            "end_time": "00:02:30,760",
+            "text": "Nope, they're not.  We can safely conclude that if aliens were visiting us and didn't want us to know about them, the last person to spot them would be your typical alien abductee.  All that technology and they can't even hide from a dumb redneck. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:49,480",
+            "end_time": "00:02:59,500",
+            "text": "are not coming here in methods that are within the confines of the speed of light or slower, because it would take millennia to actually travel across the universe at these abysmally slow speeds. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:00,140",
+            "end_time": "00:03:01,280",
+            "text": "It's not just that, Jordan.  Any proposed method of faster than light travel, such as the Alcubierre drive, aka warp drive, or stable wormholes, would, even if they're possible, require so much energy that it would be impractical.  Basically, if you have the capacity to use these methods of faster than light travel, you don't need to. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:24,280",
+            "end_time": "00:03:30,860",
+            "text": "Now, he explains that after passing the speed of light, it's an entirely different and new kind of physics, different than anything we currently know. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:31,820",
+            "end_time": "00:03:33,340",
+            "text": "Well, yes, kind of.  It all comes down to understanding why superluminal velocities are impossible.  Here's a bit of math.  Sorry, Jordan, you won't follow, but maybe there are other people who will.  This is the equation that tells us the total energy of an object as it approaches the speed of light.  When v equals c, notice what happens under the root sign.  We get a division by zero.  This means that if we approach the speed of light from below to reach it, we will need infinite energy.  Obviously, that's impossible.  But what if we just declare that v is greater than c just to see what happens?  Well, then we get a negative number under the root sign.  We get an imaginary number.  the object would have imaginary energy.  What the hell does that even mean?  We could get around it by saying that its mass becomes imaginary.  But again, what the hell would that mean?  Imaginary mass?  What is that?  Either way, yes, it will result in physics being different on the other side of the light speed barrier.  One thing we find, for example, is that energy will decrease with increasing speed, and will go to infinity as you slow down to the speed of light.  So it would take infinite energy to breach the light speed barrier from the other side as well. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:50,820",
+            "end_time": "00:05:00,000",
+            "text": "The constant interpretation of people looking at this information, saying it's debunked, and then ridiculing it, is actually holding us back socially and technologically. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:01,400",
+            "end_time": "00:05:06,660",
+            "text": "Well, we can't say with great confidence that it's true, so no, it's not actually holding us back.  Why devote effort to something that we already know will fail?  The problem here is obvious.  You don't understand how our confidence is justified.  And that's because, as always, you have no interest in learning the actual science. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:23,640",
+            "end_time": "00:05:27,940",
+            "text": "They have this advanced technology that interfaces between thought and consciousness. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:28,080",
+            "end_time": "00:05:28,600",
+            "text": "Wait, what?  You're going straight to its magic?  Okay, I figured we'd get there eventually, but you're not even gonna try to make it seem plausible?  Oh well. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:41,040",
+            "end_time": "00:05:46,760",
+            "text": "He describes that just like crossing the sound barrier was a big deal, the light barrier is going to be an even bigger deal.  And when we do, we are going to cross into these sort of multi-phasic resonant dimensions, part of which hook into the singularity of mind and thought. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:55,780",
+            "end_time": "00:05:57,660",
+            "text": "Multi-phasic resonant.  First JJ Trek and now Voyager Technobabble.  Seriously? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:04,460",
+            "end_time": "00:06:09,960",
+            "text": "Part of the challenge of understanding the faster than light conundrum is getting to know the initial problem in the first place.  And why do scientists believe that there's nothing faster?  To quote Neil deGrasse Tyson in his book, Astrophysics for People in a Hurry, we find the following. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:18,260",
+            "end_time": "00:06:23,000",
+            "text": "Yeah, this may come as a bit of a shock to you, but I don't think his explanation is very good.  It's more of an assertion since he wants to avoid using any math.  It doesn't really answer it.  But... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:32,720",
+            "end_time": "00:06:43,720",
+            "text": "Even if you were flying a spaceship at half the speed of light and had headlights in front of the ship, that light would still travel at the speed of light, no faster, measured from any perspective moving or not. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:43,980",
+            "end_time": "00:06:44,600",
+            "text": "Ah, see?  Wow, seriously Jordan, that was so good that for a while there, I almost thought that you understood it.  But what that means is that the light from the headlights is moving away from the moving observer at the speed of light, even if he is moving at 99% the speed of light.  In other words, he will never catch up with it or even fall behind it at a slower rate.  Light is always going to be faster than he is, and that means he will never reach the speed of light. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:18,500",
+            "end_time": "00:07:22,780",
+            "text": "With a new kind of physics, perhaps we get into a more quantum understanding of the universe again. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:24,260",
+            "end_time": "00:07:25,120",
+            "text": "Quantum, you say?  Would you be referring to the EPR paradox?  Because that really comes down to a matter of interpretation.  and the... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:32,580",
+            "end_time": "00:07:40,560",
+            "text": "Being able to move forwards and backwards through time and leap massive distances through space that would be impossible on this side of the light speed barrier. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:41,200",
+            "end_time": "00:07:41,960",
+            "text": "Okay, never mind.  You clearly have no idea what you're talking about, as I suspected. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:46,060",
+            "end_time": "00:07:47,460",
+            "text": "What else is out there?  A very big question in science right now is concerned with the mysterious cosmic substances, dark matter and dark energy. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:07:54,700",
+            "end_time": "00:07:57,680",
+            "text": "Neither of which has anything to do with this. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:57,720",
+            "end_time": "00:08:05,580",
+            "text": "Could these mysterious things, virtually undetectable to us, besides that they produce gravity, be waiting for us on the other side of the light barrier? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:06,180",
+            "end_time": "00:08:13,920",
+            "text": "No, dark matter and dark energy are placeholder names that refer to detectable but currently not well understood phenomena.  they're not waiting past the light speed barrier because if they were we wouldn't be detecting them now. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:21,280",
+            "end_time": "00:08:28,120",
+            "text": "what's especially curious about this is that we find a link to the mysteries of dark matter and energy in a place that you might not expect. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:28,620",
+            "end_time": "00:08:30,800",
+            "text": "ah let's see if you can guess this one.  is it a ancient sumerian tablets?  Is it B, sacred geometry?  Is it C, chakras?  Or is it D, psychedelic drugs? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:46,360",
+            "end_time": "00:08:47,300",
+            "text": "The work of Dr.  Rick Strassman, PhD.  This is a man who has pioneered psychedelic research for all of us in a profound way with his work with DMT. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:56,180",
+            "end_time": "00:09:04,640",
+            "text": "Yes, that's the key to the unsolved mysteries of modern physics, psychedelic drugs. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:05,440",
+            "end_time": "00:09:14,460",
+            "text": "Over the course of several years, Rick led the expedition to administer several hundred doses of DMT to participants in a study to see if there were any clinical benefits of using DMT. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:15,100",
+            "end_time": "00:09:17,080",
+            "text": "In other words, this has nothing to do with physics.  And for the record, Rick Strassman does not have a PhD.  As Jordan said, he has an MD.  But what's funny here is that his work really has nothing to do with the subject of your video, Jordan.  Like you said, he was trying to see if DMT had any clinical benefits. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:35,180",
+            "end_time": "00:09:42,900",
+            "text": "What the study revealed, however, opened up a wormhole of possibilities that could potentially change our understanding of ourselves and the universe forever.  Over and over, Rick's participants all experienced these incredible psychedelic voyages that often included seeing environments and realms that were outside of what could physically exist in our universe. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:09:54,680",
+            "end_time": "00:09:56,060",
+            "text": "Wait, wait, wait, wait, wait, wait.  I almost need to sit down for this one.  Are you telling me that people who took psychedelic drugs hallucinated?  Well, once again, on my frequency and call me a space Jew.  I am shocked. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:18,860",
+            "end_time": "00:10:23,120",
+            "text": "Or meeting alien beings in many sizes and shapes who interacted with the participants.  Rick tried over and over to rationalize this for the conventional thinking says that psychedelic simply reveals in your mind what is already within you. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:31,660",
+            "end_time": "00:10:31,900",
+            "text": "Yes. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:32,440",
+            "end_time": "00:10:35,920",
+            "text": "But enough participants reported meeting the same or similar beings.  that seemed outlandish to think that these experiences were all just happening inside of people's heads. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:41,100",
+            "end_time": "00:10:45,440",
+            "text": "Jordan, if I say the word alien, what's the first image that comes up in your mind?  Little grey guy with big black eyes, right?  Yeah, that's because that's the image of aliens that has been ingrained into our cultural collective consciousness over the past several decades.  Thanks, Hollywood.  That image is an example of something that already exists within us.  Try the same experiment with someone who's been living in a completely different culture, isolated from us, and you'd probably get a completely different image.  The people who claim they saw aliens in the late 1950s didn't see this image.  Because it hadn't been popularized by Hollywood yet.  They saw big lizards and clunking robots.  They saw what Hollywood fed them.  In our culture, we all have similar ideas of what aliens look like, what demons look like, what gods look like, and so on.  That's why this isn't strange.  People having similar experiences while high does not mean that your high-as-a-kite consciousness leaves your body and travels to alien worlds faster than light.  Because that is where you're going with this, isn't it? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:11:49,860",
+            "end_time": "00:11:55,120",
+            "text": "Not only did the research suggest that the participant's consciousness was actually being taken to another dimension of sorts. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:11:55,600",
+            "end_time": "00:11:58,920",
+            "text": "Yep, that's what I... Wait, what?  They didn't travel faster than light to another place in our physical universe, but went like to another plane of existence?  Well, then what the onk does this have to do with traveling faster than light? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:15,400",
+            "end_time": "00:12:24,620",
+            "text": "They claimed definitively that this was not an experience isolated within them, but they knew without a shadow of a doubt that they actually met these other beings for real. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:25,060",
+            "end_time": "00:12:26,300",
+            "text": "There's no way they could know that.  All they could possibly know is that they had an experience that felt real.  How real it felt and how real it was are two very separate and unrelated things.  But then you think Emma Watson is Jesus because you had a vision of her while high, so I'm not surprised you don't understand that. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:45,000",
+            "end_time": "00:12:48,260",
+            "text": "Emma Watson is the embodiment of Christ in woman.  What an idiot. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:51,280",
+            "end_time": "00:12:58,260",
+            "text": "Dude, seriously, when you can't tell hallucination from reality, you have a drug problem. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:58,840",
+            "end_time": "00:13:05,820",
+            "text": "To any scientist who outright denies this suggestion, I challenge you to go exploring with plant medicine in a sacred and ceremonial way. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:06,500",
+            "end_time": "00:13:06,780",
+            "text": "Why?  What would that accomplish?  Any scientist would understand that anything they experience while high is just the drugs messing with their heads.  So they would know better than to think that this experience has any value beyond awesome trip. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:13:23,700",
+            "end_time": "00:13:26,060",
+            "text": "The reason that I bring all this up is because Dr.  Strassman describes this may even relate with the mysteries of dark matter and dark energy. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:31,120",
+            "end_time": "00:13:33,780",
+            "text": "Yeah, then he should definitely stay away from physics. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:13:34,280",
+            "end_time": "00:13:41,900",
+            "text": "it's likely that most, if not all, dark matter consists of particles quite different from our familiar protons, electrons, and neutrons.  These black particles may obey entirely different laws of physics, unlike those in parallel universes. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:48,640",
+            "end_time": "00:13:55,800",
+            "text": "I know you're quoting him here, but either you misread the quote or he really has no idea what he's talking about.  Because it sounds like he's saying that he knows that particles in other universes follow the same laws as most particles in ours, but that dark matter doesn't.  What the hell would give him that idea?  no physicist is suggesting that dark matter follows different physical laws than the rest of the universe. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:14:21,560",
+            "end_time": "00:14:28,620",
+            "text": "either of these invisible levels of existence parallel universes or dark matter are present at the same time as this reality.  thus they both are options we must consider for where dmt takes us. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:33,580",
+            "end_time": "00:14:43,040",
+            "text": "why isn't it much simpler to propose that you're simply high since you know Your high? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:14:43,680",
+            "end_time": "00:14:50,720",
+            "text": "The immediacy of the transition makes appealing these two alternate viewpoints regarding the incredibly unusual places our volunteers describe. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:51,460",
+            "end_time": "00:14:52,820",
+            "text": "Again, why?  What's the logic that leads from awesome trip to dark matter in parallel universes?  If I need to be high to see the logic, it probably isn't there. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:15:04,060",
+            "end_time": "00:15:12,620",
+            "text": "I feel with all of this information, the biggest thing for me is that when scientists make definitive statements about absolutes in the universe, the proper response seems to be healthy skepticism. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:15:13,620",
+            "end_time": "00:15:35,040",
+            "text": "Yes, and what that means is, before you dismiss them as being narrow-minded, either find out why they're so certain, or, if that's too much to ask, which is perfectly fine by the way, we all have limited time on our hands and we can't be expected to be experts at everything, or anything actually.  then what you need to do is listen to the scientific consensus.  Science is self-correcting and bad ideas will be challenged by those equipped to do so.  You cannot seriously challenge an idea when you don't even have enough knowledge to understand what is even being proposed. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:02,200",
+            "end_time": "00:16:07,400",
+            "text": "That there are so many mysteries in the cosmos that it seems arrogant to suggest that we understand everything perfectly. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:07,780",
+            "end_time": "00:16:08,800",
+            "text": "But no one says so.  That's why science is a thing, because we don't know everything.  If we knew everything, science would stop.  But that doesn't mean that we can't be very confident.  And you can't be 100% certain, so shut up is not a phrase that magically makes 99.999% certainty go away. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:31,460",
+            "end_time": "00:16:38,040",
+            "text": "Especially when the standard model, quantum mechanics, and even gravity are incomplete and do not fully connect with each other. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:38,560",
+            "end_time": "00:16:45,840",
+            "text": "Jordan, the fact that we don't know everything doesn't mean that we should be totally open to ideas that contradict the things that we do know.  This is exactly what we mean when we say that extraordinary claims require extraordinary evidence.  But with you, the more extraordinary the claim, the more it contradicts everything we've established, everything that we are actually justified in accepting, the less evidence you need.  You ask your audience to be skeptical?  Well, as with science, energy, frequency, and dimension, You have no idea what that word means.  See ya. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

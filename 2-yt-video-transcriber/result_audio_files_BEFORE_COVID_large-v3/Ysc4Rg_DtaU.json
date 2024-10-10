@@ -1,0 +1,29 @@
+﻿{
+    "yt_video_id": "Ysc4Rg_DtaU",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "Hi, how's it going, sir?  Can I please have your name and your position here? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:04,280",
+            "end_time": "00:00:06,020",
+            "text": "No, you can't record inside a federal building.  If you're not going to turn recording off, we'll just have to call the Federal Protective Service.  Well... ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:21,040",
+            "end_time": "00:00:22,080",
+            "text": "Hey, what's going on, guys?  It's Auditing America.  We're in the state of Massachusetts.  I'm out with Josh from Accountability for All and with Hot Toe Truck Girl.  We're doing a First Amendment audit.  We're going to see if they respect our First Amendment rights.  What's upstairs?  Is that the immigration? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}

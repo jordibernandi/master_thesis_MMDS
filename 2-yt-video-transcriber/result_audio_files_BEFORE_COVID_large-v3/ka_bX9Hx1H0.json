@@ -1,0 +1,13 @@
+﻿{
+    "yt_video_id": "ka_bX9Hx1H0",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "So something I'm asked a lot regarding the gimbal video is if it's just a glare, if it's just some kind of glare in the camera, then how can the glare rotate when the horizon doesn't rotate?  How can the glare rotate independently of the horizon?  Now, it's actually not that complicated.  Now, the way the camera is mounted, it has to rotate when it goes over zero degrees, when it's going over the forward-facing direction, just because of the way it's mounted, because of the gimbal system.  This is an unwanted rotation.  So what they do is they have a thing called a derotation mechanism that levels out the rotation to make it so that the horizon is the way it should be, which is leveled to the actual horizon as seen by the pilot.  So this derotation mechanism is applied after the actual rotation of the camera to remove the unwanted rotation.  So let's see what that looks like.  If we have this little camera here and we rotate it and say that's an unwanted rotation and we want to remove this unwanted rotation, we just apply a derotation to it.  In this case, I just used a motion tracker to track the motion and remove the rotation.  So we've derotated it here, which gives the horizon, my garage door here, remains steady, and the glare itself rotates.  Because the glare is a function of a part of the camera.  And if we are rotating the camera, the glare rotates relative to the horizon.  And so if we then apply this derotation to get the horizon steady, the horizon doesn't rotate, and the glare does rotate.  So that explains what's going on in the gimbal UFO video.  The glare is rotating because the camera is rotating.  The horizon isn't rotating because they don't want it to rotate.  The rotation is unwanted, a function of the gimbal system.  The derotation rotates the glare, and that's what we're seeing here.  You can try this yourself. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

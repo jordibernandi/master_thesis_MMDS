@@ -1,0 +1,133 @@
+﻿{
+    "yt_video_id": "tAWGgLp2maQ",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "I had two friends last week who did the drive-through test here in Minneapolis, and both of them were told three to five days for results, and kind of a don't call us, we'll call you sort of deal.  They are both still waiting for their tests, and it's now been more than three to five days. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:18,720",
+            "end_time": "00:00:19,720",
+            "text": "It's a nasal pharyngeal swab.  Have you ever had this done before?  No, I've heard it's awesome, though.  It is awesome.  So you put the nose into the back of the throat a couple seconds, and then we're out, okay?  Yes, got it.  That's a good time.  Thank you much. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:47,660",
+            "end_time": "00:00:53,340",
+            "text": "So one of the things that we keep hearing about in the news these days is how long it takes to get test results, if you can get a test at all.  And you've been doing some reporting into what the deal is with the lag in testing.  So what have you been finding? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:00,840",
+            "end_time": "00:01:09,600",
+            "text": "Well, one of the things that turned out to be really interesting to me is I had assumed there were really big differences in the technology that we were using here in the U.S.  compared to in some of these other countries where testing capacity has been a lot faster, places like South Korea, where people are getting their tests turned around in 24 hours.  But it turns out that that's not actually the case.  In both the U.S.  and in places like South Korea, they're using pretty much the same system, a thing called polymerase chain reaction, which is a really common technology that basically any laboratory that does any work with genetics is going to have on hand.  So the problem is not a technology problem.  The problem is a logistics problem and a supply problem.  And what experts are telling me is that it's a logistics problem in terms of the fact that the CDC was originally trying to have lot of quality control over how these tests were run and so wanted to do them in a centralized way out of their laboratory and then was ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:03,120",
+            "end_time": "00:02:03,360",
+            "text": "kind of ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:02:03,500",
+            "end_time": "00:02:08,520",
+            "text": "slow to Roll out who got approval to do it in these other places.  So all the places that have the technology to do this aren't authorized to be doing it.  then the when it comes to the supply problem as more and more places have ramped up we don't have the supply of the chemicals that you need to run these tests. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:26,540",
+            "end_time": "00:02:36,160",
+            "text": "Why does South Korea and other countries that have done so many more tests than we have, why were they better prepared to handle this sort of supply chain? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:37,420",
+            "end_time": "00:02:39,660",
+            "text": "Well, they were better prepared because they've been there before.  Back in 2015, a cousin virus of COVID-19 called MERS.  MERS hit South Korea and it did not have a huge outbreak.  I think it was less than 200 people that contracted the illness, but it taught them a lot about what they needed to be doing to make sure they were prepared for the next virus.  And so they had a lot more of these chemical reagents on hand and they had a lot of the logistical system set up, ready to go, waiting to kind of be put into action. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:15,380",
+            "end_time": "00:03:20,080",
+            "text": "I know that there are actually like new tests in the works, including this one I saw over the weekend.  People are now saying there's a 45 minute test that you can do.  Is that really solving this problem? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:25,800",
+            "end_time": "00:03:27,260",
+            "text": "Well, kind of yes and no.  I mean, it's solving the problem in that it's making more testing capacity available, but it doesn't necessarily change the supply problem.  So one of the experts I spoke to was telling me about one of the many tests that have been developed in recent weeks and kind of approved by the FDA last week.  And that test is not based on PCR, but it still needs these reagent chemicals.  So now you have a situation where you have a test that relies on a proprietary system that is much, much less available to laboratories.  And you have this big company that's buying up all of the reagent that is available that then can't be used by the places that do have the more widely available machinery.  It just kind of becomes this mess of competing interests and it doesn't necessarily solve the problem of getting more throughput of these tests being done faster. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:24,120",
+            "end_time": "00:04:26,100",
+            "text": "What's on the horizon in terms of testing?  Are scientists looking to create other types of tests to use for this coronavirus? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:31,000",
+            "end_time": "00:04:37,780",
+            "text": "So one of the things that we know about the PCR test is that it's very specific and it is also very sensitive.  which basically means that it's unlikely to produce false negatives and it's also pretty unlikely to produce false positives.  And some of the other tests that we have for viruses can get the job done faster and can get the job done right in your doctor's office, but they aren't as specific and they aren't as sensitive.  Right. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:59,800",
+            "end_time": "00:05:02,860",
+            "text": "So this, at least for the foreseeable future, is sort of the best.  we're going to have to detect cases and help public health officials actually get an estimate of how many cases there are out there that's in any way accurate. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:13,980",
+            "end_time": "00:05:15,420",
+            "text": "At least for the next couple of weeks, yeah.  There's a lot of things in the pipeline in terms of faster tests and ideally tests that can be done more right in doctors' offices, in the labs that they have there.  And as more of those get online, hopefully they will also not require as many of the reagents that are in short supply. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:33,900",
+            "end_time": "00:05:37,440",
+            "text": "Well, I know you have a lot on your plate today, so we can wrap it up there.  But thank you so much for speaking with me, Maggie. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:40,660",
+            "end_time": "00:05:44,920",
+            "text": "Yeah, thank you, and thank you for your patience with my tiny chaos agents.  Well, I've only got a little bit longer left in this conversation, and then we can do Dungeons & Dragons, but we can't do Dungeons & Dragons if everybody's, like, having fights. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

@@ -1,0 +1,253 @@
+﻿{
+    "yt_video_id": "OuF9C4wdtAk",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "It's a very high risk situation.  We're taking all the precautions we can and we're just trying to stay strong mentally about the whole thing. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:10,300",
+            "end_time": "00:00:19,180",
+            "text": "Justin Barber may look like a doctor about to rush out and treat COVID-19 patients at a moment's notice, but he's actually a biomedical technician, someone who fixes medical devices.  He works out of a hospital in Houston, Texas. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:22,060",
+            "end_time": "00:00:26,420",
+            "text": "Normally, you know, we glove up and we take care of business on site.  But now we have to wear masks 100% of the time.  When we go into a room, we put on a fresh set of gloves.  And then when we leave, we take those gloves off, have to wash our hands, sanitize, and then, you know, sometimes re-glove just to leave. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:41,340",
+            "end_time": "00:00:44,020",
+            "text": "It's a job that's gotten dangerous during a global pandemic. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:00:44,400",
+            "end_time": "00:00:49,320",
+            "text": "If one of us gets sick, then obviously multiple technicians in a room, somebody else is probably going to get sick.  And you could take down a whole hospital just by taking down your biomed staff. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:00:54,180",
+            "end_time": "00:01:00,640",
+            "text": "Barber has been preparing for the worst of COVID-19 in the next month by making sure ventilators and other medical equipment are in working order. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:01,080",
+            "end_time": "00:01:04,660",
+            "text": "I can honestly tell you that we don't have service manuals for a lot of stuff.  Some of it is intuition, and other things we rely on forums. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:08,900",
+            "end_time": "00:01:15,680",
+            "text": "Barber and other biomed technicians have been trading information on Reddit, Facebook, and websites like MedWrench and .med for years. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:16,180",
+            "end_time": "00:01:25,800",
+            "text": "It's a big network of biomeds that will get online and will present the problem to the rest of the world and we'll see if somebody has an answer, which usually somebody does, thankfully. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:01:26,100",
+            "end_time": "00:01:32,060",
+            "text": "Medical device manufacturers have tried to stop this decentralized information sharing to maintain full control over their products.  Manufacturers have fought against DIY repair services in court as well.  So biomedical technicians have had to think creatively, especially in a pandemic, because one broken machine could be the difference between life and death for a patient. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:44,140",
+            "end_time": "00:01:53,160",
+            "text": "What has been happening over time is the medical device companies are employing some of the same tactics that we've seen Apple use, where they'll say, well, we'll sell it to you, but we're not going to let you service it.  We want to be the ones to service it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:55,020",
+            "end_time": "00:02:00,180",
+            "text": "Kyle Wines is the founder and CEO of iFixit, a third-party repair company for consumer electronics. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:00,380",
+            "end_time": "00:02:03,780",
+            "text": "Many companies are good guys, and they provide the information to the bio-meds.  Many companies do not. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:05,780",
+            "end_time": "00:02:10,780",
+            "text": "Manufacturers frequently claim manuals and the information in them belong to them and not hospitals.  It's the result of broadly written copyright laws written throughout the 1990s to protect the music and film industry from pirates that were taking their work and sharing it first through bootleg VCR tapes and then online.  Why buy when you can get your music for free on Napster?  But in the 2000s, software began to get integrated into phones, household items, cars, farming equipment and medical devices, too.  Manufacturers tried to make it so.  they were the only ones who could repair consumer devices. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:36,640",
+            "end_time": "00:02:46,820",
+            "text": "It's not just service manuals, but it's also sometimes the service utilities, which, you know, you connect the laptop to the device to get it to calibrate or to read the error codes.  We have problems even with special tools because sometimes you need a special tool to accomplish a special task.  and parts.  There's some manufacturers that won't even sell us parts.  It's proprietary and we have no access to it. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:02,040",
+            "end_time": "00:03:03,940",
+            "text": "So Frank is a hero of the modern world.  He is a German guy who is a biomedical service technician in Tanzania.  And what he was finding was that equipment that was donated that ended up in Africa.  There was no access to the manufacturer service supply chain.  Medtronic's not going to send a service technician to Tanzania.  So he had to maintain it himself.  And he was just struggling with finding this information.  He decided, I'm going to set up a website and I'm going to organize all this in a central fashion. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:27,540",
+            "end_time": "00:03:31,840",
+            "text": "For years, Frank posted manuals, service information, and wrote about how the equipment worked. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:32,280",
+            "end_time": "00:03:37,960",
+            "text": "I would say, from my experience, the most comprehensive, most used resource for medical service information. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:03:38,200",
+            "end_time": "00:03:40,900",
+            "text": "Then Frank started getting takedown requests from manufacturers. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:41,160",
+            "end_time": "00:03:50,480",
+            "text": "We used to rely on Frank's quite a bit, but since manufacturers started placing takedown requests, a lot of our resources on there have become incomplete.  There's a lot of dead links. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:03:52,080",
+            "end_time": "00:03:57,800",
+            "text": "Most service technicians are relying on information that they don't have direct access to the manufacturer for.  So there's all kinds of, you know, I don't want to say secret, but non-public forums where they're swapping this information because it's almost faster to go on a forum and ask someone for a service manual than it is to go and find the authorized way to get it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:11,600",
+            "end_time": "00:04:14,260",
+            "text": "A right-to-repair movement has fought for years to change U.S.  copyright law or pass state-level laws so biomedical technicians as well as the general public could fix their own devices.  But medical device companies fought back with letters to lawmakers saying right-to-repair laws could endanger the lives of patients if devices were fixed improperly by untrained personnel.  The trade association Advamed, which represents medical device companies, has even lobbied the Food and Drug Administration to step in and regulate third-party device repairs.  But after an assessment by the FDA in 2018, the administration said objective evidence indicates third-party entities provide high-quality, safe, and effective servicing of medical devices. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:48,840",
+            "end_time": "00:04:56,720",
+            "text": "It seems like the larger and more entrenched and monopolistic these companies are, the more likely they are to be saying, we don't want the hospitals fixing these things.  Instead, they want to send out their own service technician. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:59,800",
+            "end_time": "00:05:08,680",
+            "text": "In an emergency, there's no time to send a broken respirator back to the manufacturer or wait on a service call, which leaves on-site technicians like Barber to keep hospital equipment working. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:09,080",
+            "end_time": "00:05:11,000",
+            "text": "So I'm going to show you around my office right here. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:11,360",
+            "end_time": "00:05:14,580",
+            "text": "He has his own YouTube channel for sharing information with other bio-meds. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:14,900",
+            "end_time": "00:05:23,100",
+            "text": "Some of the best resources are when nurses or nurse training managers, they'll post videos on YouTube showing how they set up and run a device.  so you can.  you can go on youtube and even see how to replace an acl.  you know.  if you wanted any type of surgery you can go on youtube and you can see how does that surgery happen.  and that's one of my coolest resources because i get to see how the users use the device.  so you learn the clinical aspect of it plus the mechanical aspect. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:42,880",
+            "end_time": "00:05:49,380",
+            "text": "i fix it recently announced an initiative to begin collecting service manuals and information about medical devices on its website. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:49,760",
+            "end_time": "00:05:54,920",
+            "text": "I've been really surprised that there isn't good system-wide information about what kind of equipment is out there.  If people want to help us, we have thousands of PDFs that we're organizing.  And so it would sure be nice if we could, as a community, come together and say, well, maybe we don't know how to fix this equipment ourselves, but we can organize files.  So let us, as a society, come together and organize files and create a centralized resource so that when the biomeds do need it, it's in a nicely easy-to-find place. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:19,100",
+            "end_time": "00:06:24,260",
+            "text": "Barber is already working overtime to deal with the impact that COVID-19 is having on his hospital's equipment.  And the worst may be yet to come. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:26,900",
+            "end_time": "00:06:32,740",
+            "text": "Right now, even our maintenance cycles are getting tighter and tighter because we don't have access to the equipment.  It's currently saving somebody's life.  So that's definitely going to be an issue, especially in about a month.  You know, as these hours click down, the amount of use, we're going to start to see problems where we're not going to be able to get to the equipment until it fails.  So we're just praying that this passes by and we're going to do all right. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        }
+    ]
+}

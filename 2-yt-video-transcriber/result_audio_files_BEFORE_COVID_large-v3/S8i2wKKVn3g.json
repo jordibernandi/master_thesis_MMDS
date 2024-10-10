@@ -1,0 +1,77 @@
+﻿{
+    "yt_video_id": "S8i2wKKVn3g",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "And we now shift to look at cybersecurity amidst allegations in the European Union that member states are considering a united response to cyber attacks, allegedly directed by a Chinese state-linked hacker group following the UK presenting proof, they say proof, about sensitive systems penetration.  To help us out, we are pleased to be joined once again by the CEO of Stromark, Hilary Fordwich, and by RT Caleb Maupin, who is also a China expert.  Welcome to you both.  Hilary, let's start with you.  EU or UK officials, they presented this evidence a few days ago and say that there is actual proof that software and hardware attacks by this group called Advanced Persistent Threat 10 or APT 10.  What do we know about this group and exactly what did this so-called group do? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:47,660",
+            "end_time": "00:00:49,520",
+            "text": "Well, it is rather troubling, actually, Bart.  Thanks for having me back.  A pleasure.  A couple of things.  First of all, what this APT has been doing, it's called a spear phishing, and it's very specific in terms of cyber attacks and espionage, corporate espionage and governmental espionage.  And the analogy for our audience, it's rather like if you wanted to get all your buddies out of jail, you could go with chainsaws and you could try to break into the jail and you could try to figure out the key to each single jail cell.  Or all you could do is kind of knock off the head jailer, the master jailer, take his set of keys and open all the cells.  This is what they're doing.  They're going to these managed service providers, that is the MSPs, and they're hacking into managed service providers.  Well, what do MSPs do?  MSPs hold... all of the intellectual property and the data and the information for numerous industries such as construction, engineering, telecommunications, infrastructure.  And so what this APT has been doing is hitting the MSPs, and they've been spear phishing by sending documents with a word attachment, basically faking out and tricking their employees to open them.  And then like a Trojan horse, they've gone in and basically stolen this intellectual property.  It is corporate and governmental espionage. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:02:03,820",
+            "end_time": "00:02:06,240",
+            "text": "Yeah, we see that a lot just in the consumer realm.  I get them about every day.  It's crazy.  Caleb, you look at China every day, and we are so pleased that you've had some time to join us.  Let's take for a minute, let's sort of accept that at least these allegations are similar allegations about, you know, hacking or about IP theft by China.  Let's just for the sake of argument, let's assume at least some of them are true.  I mean, doesn't China need to sort of up their game, if they're going to be sort of a global player in the economy around the world.  They can't continue, it would seem to me, to have these criticisms of them if Shanghai is going to be the next London or New York.  Am I off base?  What do you think? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:47,460",
+            "end_time": "00:02:48,480",
+            "text": "well they're doing that.  on february first we heard a very important announcement from the ministry of commerce.  they announced that they're teaming up with the standing committee of the national people's congress and they're having an ipr intellectual property rights crackdown stiffer penalties doing everything they can to make sure there's a better environment for business and IPR is at the center of the talks that have taken place, and both sides want this issue to be resolved.  People acknowledge that there is a problem that needs to be resolved, but as far as the hacking thing is concerned, I just can't accept that we should just take these claims at face value.  We have seen a lot of misinformation lately.  For example, the New York Times was caught by journalist Nathan Rich, an American living in China, an American journalist, basically mistranslating.  He exposed that it looks like they were mistranslating people in a video the New York Times released about China's health care system.  There seems to be quite a bit of just not clear facts and distortion of facts in American media when it comes to China.  Certain forces certainly have an axe to grind.  And when it comes to cybersecurity and cyber hacking, a lot of cases, you know, you look at the evidence, we just have to take their word for it.  Well, I think that with the atmosphere the way it is, we shouldn't just be taking their word for it. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:04,080",
+            "end_time": "00:04:06,240",
+            "text": "And Hillary, let me ask you sort of the same question.  I mean, I get what Caleb is saying and good on them.  The proof will be in the pudding.  But what's your view about China sort of upping their game to be accepted more in the global economies? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:18,980",
+            "end_time": "00:04:20,240",
+            "text": "Well, two things, actually, Bart.  I would defer to FireEye.  They're a cybersecurity firm that has been tracking the APT10 since 2009.  And since then, they have delivered to the U.S.  Department of Justice, and that was what part of the indictment was about in December, the actual tangible reports.  So I would say that they have the tangible proof.  I don't think that it's speculation.  I don't think that it's just imagery, nor is it politics.  I think it's tangible.  But I would say if they're going to join the global marketplace, they can't continue to act... well, unilaterally, and they can't continue to act as they've been doing, which is obviously there's a communist power, there's a dictatorial society where they have not had to answer to anyone.  If they're going to join the global integrated market, they need to become more collaborative and not more antagonistic, and nor can they commit corporate espionage. ",
+            "speaker": {
+                "name": "Speaker 2"
+            }
+        },
+        {
+            "start_time": "00:05:09,200",
+            "end_time": "00:05:12,980",
+            "text": "Hey, Caleb, we're running out of time, but there's some good news for Huawei.  The Philippines, there's a company there that says actually the threat about Huawei technology is being overblown.  What do you make of that? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:21,800",
+            "end_time": "00:05:24,940",
+            "text": "Well Bart, I'll tell you what I think the real issue is here, right?  You've got the Wall Street Journal, this was their weekend edition in mid-January, and they're talking about the fact that at this point Apple's profits are dropping.  Why?  That's because people all over the world and people within China itself are realizing that Huawei has just made a better product with better battery life and a lot of features that are just better than what Apple is doing.  And if you look at it, Huawei, which at this point is the biggest telecommunications manufacturer in the entire world, this is a super corporation that is cutting into the market, right?  This is one of these mega state-controlled corporations.  It's technically a cooperative under Chinese law.  This is kind of a fixture of Deng Xiaoping's economic model.  where you have the government and the private sector and the public all kind of teaming up to unleash innovation and growth.  And at this point, people all over the world are buying Huawei phones and not buying phones from Western countries.  And I think that's the issue here.  You hear Western leaders constantly talking about the wonders of the free market and free competition, but when they start losing out, all of a sudden they change their tune.  I mean, we saw the CFO of Huawei dragged out of the airport in Canada.  You know, there have been many companies around the world that have been accused of violating U.S.  sanctions, but you don't see that kind of special treatment being handed out.  I think Huawei is being targeted. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:43,660",
+            "end_time": "00:06:44,480",
+            "text": "You've got a good point.  It's free market until your ox is gored, and then maybe you want to put some sidebars on it one way or another.  We're out of time for this time.  What a great, great conversation, guys.  Caleb Maupin and Hilary Forby, thank you so much.  That was really interesting.  and time now for a quick break but hang here because. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        }
+    ]
+}

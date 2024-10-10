@@ -1,0 +1,453 @@
+﻿{
+    "yt_video_id": "pYSmFI9GAAs",
+    "transcripts": [
+        {
+            "start_time": "",
+            "end_time": "",
+            "text": "And I was a content review analyst for the intellectual property department at Facebook.  I handled copyright and trademark claims.  And in the course of doing my duties, I noticed other things that were going on on accounts.  And that is why I came forward.  This is my story.  Everyone is expected to be the same.  Everyone's expected to not talk about these things openly.  In the orientation at Facebook, they said the number one rule of Facebook is don't talk about Facebook.  I see an odd note on an account.  Being a curious person, I decide to look into it more. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:00:40,520",
+            "end_time": "00:00:47,320",
+            "text": "Things will only change if we, the people, are brave enough to step forward and do something bold.  They may be able to stop one man, but they can't stop all of us.  Be a catalyst for change.  Wear a camera.  Be brave.  Do something.  This Facebook insider contacted us some time ago and provided us with what she says are internal Facebook documents. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:05,500",
+            "end_time": "00:01:09,440",
+            "text": "I saw things going on that I personally found to be troubling.  I knew that something had to be done about it, and so I felt that the best thing to do was to inform the public because they had a right to know. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:01:19,240",
+            "end_time": "00:01:21,880",
+            "text": "This is Danny Ben-David, a software engineer.  On his website, Ben-David writes, I am now working at Facebook as a software engineer.  I am part of the problem I know.  In the leaked documents our insider gave us, we came across a back-end view of Mike Cernovich's page.  On it, we could see Ben David running an action called Action Deboost Live Distribution.  In fact, Ben David wrote the code and may have invented the word deboost.  Who is Danny Ben David? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:01:53,780",
+            "end_time": "00:01:58,920",
+            "text": "Um, from my understanding, Danny Ben David is a software engineer at Facebook.  He did not work at the same location as me, but I noticed that every time I would see this D boost live stream kind of code on there, that his name was always next to it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:11,260",
+            "end_time": "00:02:19,180",
+            "text": "And what does it mean when these documents say action D boost live distribution?  What does the term D boost mean? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:02:23,340",
+            "end_time": "00:02:35,460",
+            "text": "While I can't speak to what exactly the actions were, when it says reduce live distribution, I'm not a programmer, but I can read English just fine.  When I see reduce live distribution, it means preventing the distribution of this live feed. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:02:45,020",
+            "end_time": "00:02:47,920",
+            "text": "Deboosting is a method of suppressing distribution.  This occurs because props such as share this video are disabled.  Interactive notifications are also disabled.  And the live feed boost associated with a live streaming video on Facebook is removed.  The system converts the live video into text.  Machine learning classifies or identifies certain words, and bad words trigger de-boosting.  Action de-boost appears after the word SIGMA, which Project Veritas has learned is an artificial intelligence system to block potential suicide and self-harm posts.  The SIGMA code was written in 2017.  And shortly thereafter, it seems Deboost went political.  And where did you see this Deboost language when you were present in the Facebook facility?  Where did you see this appear?  On whose pages? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:03:45,460",
+            "end_time": "00:03:48,760",
+            "text": "I would see it appear on several different conservative pages.  I first noticed it with an account that I can't remember, but I remember once I started looking at it, I also saw it on Mike Cernovich's page, saw it on Steven Crowder's page, as well as the Daily Caller's page. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:03,460",
+            "end_time": "00:04:07,440",
+            "text": "We spoke to Steven Crowder about this, and he was disappointed but not surprised.  He told us that this is not the first time Facebook has targeted him.  After an April 2016 Gizmodo article, Crowder's livestream was de-throttled.  He settled with Facebook out of court. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:19,680",
+            "end_time": "00:04:27,360",
+            "text": "So when things are taken down and like actually permanently deleted from Facebook, the user will typically get a notification.  The user can respond to those notifications and there are humans that actually read that.  However, with these de-boost live stream things, there was no warning sent to the user.  These were actions that were being taken without the users knowing. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:44,820",
+            "end_time": "00:04:50,480",
+            "text": "Did any of this show up on the task version of the Facebook backend?  Did it show up anywhere there?  No. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:04:54,140",
+            "end_time": "00:04:58,620",
+            "text": "No tasks were created when these livestream de-boosts would occur. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:04:59,280",
+            "end_time": "00:05:06,180",
+            "text": "The story of using certain keywords to demote or downrank certain content is not unfamiliar.  We exposed similar activities at Twitter during our investigation of them last year.  Just go to a random tweet and just look at the followers. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:17,760",
+            "end_time": "00:05:21,420",
+            "text": "We'll all be like guns, God, America.  With the American flag and the cross.  Well, Senator, our goal is certainly not to engage in political speech. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:29,320",
+            "end_time": "00:05:37,380",
+            "text": "In April 2018, Facebook CEO Mark Zuckerberg was grilled by the Senate over these very notions, but with no actual proof. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:05:38,340",
+            "end_time": "00:05:41,920",
+            "text": "Overall, I want to make sure that we provide people with the most voice possible.  I want the widest possible expression, and I don't want anyone at our company to make any decisions based on the political ideology of the content. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:05:52,560",
+            "end_time": "00:05:59,420",
+            "text": "What Zuckerberg says in front of the Senate is completely different than what is actually happening, according to the insider.  Do you think that Mark Zuckerberg knows about this activity? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:04,840",
+            "end_time": "00:06:10,160",
+            "text": "Now I definitely, I do not know what Mark Zuckerberg does or does not know.  However, what I can say is that at some point he does need to know what's going on with the company. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:20,120",
+            "end_time": "00:06:23,900",
+            "text": "Has Facebook ever admitted publicly that they've done this to your knowledge? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:24,320",
+            "end_time": "00:06:25,200",
+            "text": "Not to my knowledge.  No. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:06:25,880",
+            "end_time": "00:06:26,120",
+            "text": "Okay.  Did you check pages of people who are not conservative to see what it said?  Yes. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:06:32,180",
+            "end_time": "00:06:38,100",
+            "text": "At first I was wondering whether this is something that I had, you know, a couple working theories.  I was like, maybe this is an independent versus mainstream thing.  Maybe independent figures on the left are experiencing the same kind of de-boosting.  But I didn't see that.  I looked at the Young Turks page.  I looked at Colin Kaepernick's page.  None of them had received the same Dboost comment on their account. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:07:00,900",
+            "end_time": "00:07:02,320",
+            "text": "Is this your name right there?  Danny Ben David, iAction Dboost Live Distribution.  We'd like to talk to you about why this code shows up on all of these pages.  And I can give these to you.  Yeah.  Any other comment?  We're James O'Keefe.  I'm James O'Keefe, yes.  Okay.  Well, not much luck in talking to Mr.  Ben David.  This is Seiji Yamamoto, a data science manager for Facebook since 2015.  Yamamoto has had some significant duties.  He has worked on informed sharing ranking demotion and the newsfeed reduction strategy.  On Facebook's private workplace, Yamamoto makes it clear that he is on a crusade against hate speech.  However, his definition of hate speech is troubling.  Quote, hate speech needs to be stopped, but there's quite a bit of content near the perimeter of hate speech that we need to address as well, unquote.  What does he mean by perimeter of hate speech? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:10,860",
+            "end_time": "00:08:16,820",
+            "text": "Things that aren't actually hate speech, but that might offend somebody.  Mm-hmm.  You know, anything that is perceived as hateful even though no court would define it as hate speech.  So there was another document as I was kind of researching through the workplace function of Facebook, which is the internal Facebook.  as you will.  I came across a document called Coordinated Trolling on Facebook and it was this troll report where they wanted to address the problem of trolls on the platform and what they could do to combat it. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:08:54,280",
+            "end_time": "00:08:59,200",
+            "text": "Seiji Yamamoto and Eduardo Arino de la Rubia are the authors of that troll report. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:08:59,760",
+            "end_time": "00:09:19,680",
+            "text": "And so I was looking through this document and it was clearly kind of designed at the aim to be the right-wing meme culture that's become extremely prevalent in the past few years and some of the words that appeared on there were using words like sjw.  you know no person on the left talks about sjws.  that's what people on the right say the MSM for the mainstream media.  Once again, the New York Times doesn't talk about the MSM.  The independent conservative outlets are using that language. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:09:35,500",
+            "end_time": "00:09:42,100",
+            "text": "In Yamamoto's troll presentation deck, he writes that they have a classifier that predicts if the user is a troll.  The term troll refers to an internet troublemaker listing flagged words such as cuck, re, normie, lulz, and even MSM or mainstream media and others to identify trolls.  It's clear that Facebook is targeting the language of the right and using it to actively suppress their content, the perimeter of hate speech, indeed.  The Yamamoto glossary is clearly ant-right. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:10:14,740",
+            "end_time": "00:10:16,860",
+            "text": "They're shifting the goalpost.  It's one thing, if you're dropping the N-word or things like that using some kind of homophobic or racial slur, by all means, that's something that a platform should not want on it.  But now you're moving it to things like jokes that conservatives tend to make.  And like I said, it's based largely around this meme culture.  So now you're saying what jokes you are and aren't allowed to make, what kind of edgy comment.  As long as it's not blatantly hateful, I don't see where Facebook has the right to be the arbiter. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:10:56,740",
+            "end_time": "00:11:01,240",
+            "text": "What exactly do the engineers at Facebook define trolling and hate speech as?  In one slide from Yamamoto's deck, he writes, trolls are involved in many destructive behaviors on Facebook.  Yamamoto then lists one example, writing, red-pilling normies to convert them to their worldview, with a link to a YouTube video by Lauren Chen called Why Social Justice is Cancer.  In this video, I would like to talk about why social justice as an ideology is so very toxic.  This is Facebook's definition of destructive behavior.  This constitutes as hate speech and trolling.  Yamamoto goes on to describe other methods of combating hate speech.  He writes, introducing friction via the troll twilight zone will confuse and demoralize them.  On his next slide, he defines the Troll Twilight Zone, saying it will enact, quote, drastically limited bandwidth, auto logouts, and comments and posts will magically fail to upload, unquote.  Just below this, Yamamoto writes that his Troll Twilight Zone feature will be triggered, quote, leading up to important elections, unquote.  Do you think they're trying to influence elections? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:12:12,040",
+            "end_time": "00:12:12,560",
+            "text": "Absolutely.  I do think, even if that's not their stated intent, I think like many people, they believe that the 2016 election of Donald Trump was a fluke.  It was something that shouldn't have happened.  It happened because all these trolls were sharing, you know, anti-hillary means and mean culture in their opinion is what one donald from the presidency and so it's in their interest as a very homogenous company kind of shut this down. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:12:47,140",
+            "end_time": "00:12:51,120",
+            "text": "another tactic that yamamoto describes sounds like outright bullying.  quote when a user does something egregious wanting an account suspension or deletion we should notify the friends network.  Fear of being outed as a miscreant is what regulates behavior in real life and we should reintroduce that to the online world, unquote.  It appears that Facebook is muzzling users to peer pressure them into changing their political ideology.  When Project Veritas showed tactic two from the troll report to another Facebook insider, the insider thought this was particularly egregious.  Some people in Facebook might say that these trolling documents were just wishful thinking, that they were an intended plan that was never implemented.  What's your response to people who say that? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:39,740",
+            "end_time": "00:13:48,280",
+            "text": "While it's very possible and even likely that not every measure has been implemented, there were measures in that document that I did see implemented. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:13:48,700",
+            "end_time": "00:13:49,280",
+            "text": "Like which ones? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:13:50,360",
+            "end_time": "00:13:54,200",
+            "text": "For instance, they talk about assigning a troll score to accounts.  So Facebook has what's called the fake account index, where they assign a score which helps them to determine whether the account is a real person or just a dummy spam account.  And so rightfully so, they want to delete those accounts.  That's OK.  They created the troll score so they could help identify using parameters such as words that they would post, pictures, if they were friends with other trolls, and then using that, determine whether this person should be on the platform or not. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:14:30,940",
+            "end_time": "00:14:33,380",
+            "text": "So why is this troll score a bad thing? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:14:34,660",
+            "end_time": "00:14:36,820",
+            "text": "It's a bad thing because there's no accountability.  And especially when they're using machine learning to do this, whenever an individual actions an account, there is a process where at least you can send a message to Facebook.  Most of the time it falls on deaf ears.  However, this is all being done without the user's knowledge.  There's no recourse for them. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:14:55,800",
+            "end_time": "00:15:12,580",
+            "text": "And it's being done without, you know, on public figures like Mike Cernovich, Steven Crowder, We asked Yamamoto about the insider actually seeing a troll score under the fake account index in CRT, Facebook's back-end content review tool.  You actually created this report, did you not?  Yamamoto issued a no comment comment and fled the scene. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:15:23,600",
+            "end_time": "00:15:35,920",
+            "text": "I think the biggest thing is that getting the documents, getting video or still pictures of what was going on, that shows that it actually is happening.  This isn't rumors.  They talk about how right-wingers just, they come up with all these crazy theories and that's not actually happening at these social media companies.  They poo-poo it.  But here it is and it's in your face. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:15:50,600",
+            "end_time": "00:15:56,420",
+            "text": "After leaving her employment at Facebook, the insider came to work for Project Veritas. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:15:56,880",
+            "end_time": "00:16:06,760",
+            "text": "So two days after the Twitter story had launched, I came to work just like I normally would.  And my manager says, we need to talk with you.  And not thinking it was a big deal, I go and I set down my bag, and I go to a conference room.  And they told me that I was being terminated. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:23,760",
+            "end_time": "00:16:24,480",
+            "text": "Did they give you a reason? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:25,260",
+            "end_time": "00:16:25,320",
+            "text": "No.  I was never given a reason.  I asked them, I said, can I ask why I'm being terminated?  And they told me, we don't know. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:35,340",
+            "end_time": "00:16:38,340",
+            "text": "Did you find anything about the timing of this suspicious? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:38,460",
+            "end_time": "00:16:39,420",
+            "text": "Oh, absolutely. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:39,460",
+            "end_time": "00:16:40,900",
+            "text": "What was suspicious about it? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:41,340",
+            "end_time": "00:16:45,780",
+            "text": "What was suspicious was that it was two days after Project Veritas released their Twitter videos. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:47,580",
+            "end_time": "00:16:50,260",
+            "text": "And why would that be an interesting connection? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:16:51,200",
+            "end_time": "00:16:57,700",
+            "text": "Because at that point, the company knew that Project Veritas wanted to investigate the issue of censorship in big tech. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:16:58,620",
+            "end_time": "00:17:01,220",
+            "text": "And how would they know that you had anything to do with this?  if they did know? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:17:03,500",
+            "end_time": "00:17:06,380",
+            "text": "I think it's because you and I had had some contact. ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:17:07,000",
+            "end_time": "00:17:07,220",
+            "text": "Okay.  And at the time that your termination with Facebook occurred, were you a full-time employee with Project Veritas? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:17:16,020",
+            "end_time": "00:17:16,079",
+            "text": "No.  I was not employed in any way, shape, or form with Project Veritas.  My father asked me, well, was it worth it? ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:17:25,640",
+            "end_time": "00:17:25,859",
+            "text": "Was it? ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        },
+        {
+            "start_time": "00:17:26,540",
+            "end_time": "00:17:27,920",
+            "text": "Yes, and I told him.  there was not even a moment of hesitation because I knew what I had seen and the fact that it was so egregious that they wouldn't even tell me why I was being terminated just reconfirmed that this is something they were trying to keep in the shadows, that they did not want the public to know and yet that the public has a right to ",
+            "speaker": {
+                "name": "Speaker 0"
+            }
+        },
+        {
+            "start_time": "00:17:48,680",
+            "end_time": "00:17:48,820",
+            "text": "know.  Now, Project Veritas has learned that as late as last week on this workplace back end of Facebook, there were executives and officials talking about the need to not reward divisive content.  We're not sure what divisive means, but also saying that we need to promote publishers which are aligned with the mission of Facebook, promote publishers who promote content which is aligned with the mission of Facebook.  But as long as there is a conflict in the values of Facebook as it relates to the First Amendment and being a public town square, as long as that exists and as long as there are human beings in rooms which make determinations, there are always going to be the types of abuses that this insider talks about.  Now, as it relates to this insider, she says she made enormous sacrifice.  She said it was worth it.  We need people like her.  We need people to follow her example, to step up, be brave, do something, and wear a camera.  It's enormously inspiring what she did, and I hope many other people.  following her footsteps.  We need you to come forward.  We need you to wear a camera.  Reporting from Menlo Park, California, outside of Facebook headquarters, this is James O'Keefe with Project Veritas. ",
+            "speaker": {
+                "name": "Speaker 1"
+            }
+        }
+    ]
+}
