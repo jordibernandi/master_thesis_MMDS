@@ -35,7 +35,11 @@ In this phase, we conducted preliminary experiments to analyze the topics discus
   **After COVID-19**:
   > The discussion revolves around the COVID-19 pandemic, its health implications, and the various measures taken to combat it. The conversation touches on topics such as vaccine development, healthcare plans, and the impact of the pandemic on different countries, including the US, China, and Italy. It also mentions the importance of public health, social distancing, and the need for access to healthcare, particularly for vulnerable populations like refugees and the elderly. Additionally, the discussion highlights the economic and social consequences of the pandemic, including the impact on small businesses, mental health, and the homeless crisis. Overall, the conversation emphasizes the need for a comprehensive approach to address the pandemic, including scientific research, public health measures, and social support.
 
+The two discussions both revolve around health but with different focal points. Before COVID-19 topic discusses broader health-related issues, such as physical and mental well-being influenced by factors like diet, screen time, medical procedures, and healthcare systems like Medicare for All and the Affordable Care Act. It also touches on emotional trauma and long-term health risks, including sensitive topics like medical transitions and the Holocaust. After COVID-19 topic is more focused on the COVID-19 pandemic, examining its health implications, vaccine development, public health measures, and the socioeconomic consequences of the pandemic, such as impacts on small businesses, mental health, and vulnerable populations. While both discussions address healthcare systems and health challenges, before COVID-19 is more general, and after COVID-19 is specifically centered around the pandemic and its wide-reaching effects. This reflects a significant shift from broad health concerns to a pandemic-centric discussion.
+
 ![UMAP Health Topic Visualization](./readme-images/UMAPHealth.png)
+
+
 
 ### Showcasing: **yt-video-webapp**
 To facilitate easy dissemination and provide a more readable version of the transcripts, the dataset is available in multiple file formats. Users can search for political videos they are interested in and download them directly from the app.
