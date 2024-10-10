@@ -16,7 +16,7 @@ In this phase, we scraped metadata from **3 million** political YouTube videos a
 - **Download**: [3,393,874 YouTube political metadata](https://drive.google.com/drive/u/0/folders/11XkzCTerbk3651zyY_K6DHBNsGtB266B)
 
 ### 2. Transcribing: **yt-video-transcriber**
-This phase focuses on generating transcripts from the selected COVID-19 case study dataset.
+This phase focuses on evaluating ASR and SD models and generating transcripts from the selected COVID-19 case study dataset.
 
 - **Download**:
   - [Before COVID-19 (Feb 1, 2019 – Jan 31, 2020)](https://drive.google.com/drive/u/0/folders/1HB2Hnkmsahl0xg2gXWeFPQy3Yac2rJJB): 5,714 video transcripts + metadata
