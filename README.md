@@ -24,10 +24,10 @@ This phase focuses on evaluating ASR and SD models and generating transcripts fr
 
 ![Distribution of Transcripts Over Time](./readme-images/DistributionVideoOvertime.png)
 
-### 3. Analyzing: **yt-video-analyser**
+### 3. Analysing: **yt-video-analyser**
 In this phase, we conducted preliminary experiments to analyze the topics discussed by different political ideologies before and after the COVID-19 outbreak using **topic modeling**.
 
-- **Topic Example - Health** (Partisan Right):
+- **Generated Topics Example - Health** (Partisan Right):
 
   **Before COVID-19**:
   > The discussion revolves around various health-related topics, including the importance of being comfortable in the water, the development of a fetus, and the physical and mental health problems associated with different factors such as diet, screen time, and medical procedures. The topics also encompass healthcare systems, including Medicare for All and the Affordable Care Act, as well as the impact of laws on vaccination requirements and health insurance. Additionally, the discussion touches on the physical and emotional trauma experienced by individuals, including Holocaust victims and those who have undergone medical transition, and the potential long-term health risks associated with certain medical procedures. Overall, the conversation is centered around the complexities of human health and the various factors that influence it.
