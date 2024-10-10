@@ -10,7 +10,7 @@ This section details the key Python scripts and data files used for scraping and
 - **`functions.py`**: 
   - Contains helper functions used by `scraper.py` for scraping video metadata with the PyTube library.
 
-- **`EDA`**
+- **`EDA.ipynb`**
   - Contains some data analysis and selection for COVID-19 case study dataset.
 
 ### Data Files:
@@ -22,7 +22,7 @@ This section details the key Python scripts and data files used for scraping and
   - A filtered version of `vis_channel_stats.csv`, focusing on independent YouTubers.
 
 - **`3mil_videos_metadata`**
-  - Contains the results of scraping all YouTube videos metadata from YouTube channels listed in `checked_channels_v2.csv`. Can be downloaded [here](https://drive.google.com/drive/u/0/folders/11XkzCTerbk3651zyY_K6DHBNsGtB266B).
+  - Contains 3 million rows metadata, the results of scraping all YouTube videos metadata from YouTube channels listed in `checked_channels_v2.csv`. Can be downloaded [here](https://drive.google.com/drive/u/0/folders/11XkzCTerbk3651zyY_K6DHBNsGtB266B).
 
 - **`before_covid_top_videos_df.csv`**: 
   - Contains metadata for the top YouTube videos used in the COVID-19 case study, **before COVID-19** (February 1, 2019 – January 31, 2020).
