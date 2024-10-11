@@ -4,31 +4,47 @@ This section provides a prelimary experiments that we conducted on our COVID-19 
 
 ### Python Scripts:
 
+- **`summarizer.py`**: 
+  - Summarize transcripts.
+
+- **`topicGPT/script/generation_1_FINAL.py`**: 
+  - We did some finetuning from the original `generation_1.py` and modify the code to work with Llama 3.1 & run with local GPU.
+
+- **`topicGPT/script/assignment_FINAL.py`**: 
+  - We did some finetuning from the original `assignment.py` and modify the code to work with Llama 3.1 & run with local GPU.
+
+- **`topicGPT/script/refinement_FINAL.py`**: 
+  - Modify the code to work with Llama 3.1 & run with local GPU. (did not use it at the end)
+
+- **`topicGPT/script/generation_2_FINAL.py`**: 
+  - We did some finetuning from the original `generation_2.py` and modify the code to work with Llama 3.1 & run with local GPU. (did not use it at the end)
+
+- **`generation_1_run`**: 
+  - Implement `generation_1_FINAL.py` on all political ideologies.
+
+- **`assignment_run`**: 
+  - Implement `assignment_FINAL.py` on all political ideologies.
+
+- **`refinement_run`**: 
+  - Implement `refinement_FINAL.py` on all political ideologies.
+
+- **`generation_2_run`**: 
+  - Implement `generation_2_FINAL.py` on all political ideologies.
+
 - **`legacy`**: 
   - Contains some experiments of using BERTopic for topic modeling.
-<!--   
-- **`transcriber_real_.py`**: 
-  - Pipeline for downloading audio and running ASR + SD on the full COVID-19 dataset.
-  
-- **`WER.ipynb`**: 
-  - Jupyter notebook for evaluating the Word Error Rate (WER) of the ASR outputs.
-  
-- **`WDER.ipynb`**: 
-  - Jupyter notebook for evaluating the Word Diarization Error Rate (WDER) of the SD outputs.
 
 ### Data Files:
 
-- **`testtopdata`**: 
-  - Ground truth dataset containing 28 manually annotated transcripts, reviewed by two independent annotators.
+- **`visualization/EDA.ipynb`**: 
+  - Showing transcript statistics
+
+- **`visualization/Topic_EDA.ipynb`**: 
+  - Showing results from generation_1 across different ideologies and covid time period.
   
-- **`Whisper-Nemo`**: 
-  - Results from running `whisper-nemo-lib` on the 28 ground truth videos.
+- **`Analysis.ipynb`**: 
+  - Topic descriptions in topic assignments are combined together per ideology & a global topic --> summarize the topic descriptions --> compare the cosine similarity, and compare the results.
 
-- **`Whisper-Pyannote`**: 
-  - Results from running `whisper-pyannote-lib` on the same 28 ground truth videos.
+- **`UMAP_Subtopic`**: 
+  - Experiments to cluster sub topics that are generated from running `generation_2`.
 
-- **`result_audio_files_BEFORE_COVID_large-v3`**: 
-  - Transcription results using `whisper-nemo-lib` on the pre-COVID-19 dataset.
-
-- **`result_audio_files_AFTER_COVID_large-v3`**: 
-  - Transcription results using `whisper-nemo-lib` on the post-COVID-19 dataset. -->
