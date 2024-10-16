@@ -7,7 +7,7 @@ First, download the SQL dump file `ytvideodumpfile.sql` from this [Google Drive 
 
 ### Step 2: Initial Setup (Run these commands only once)
 
-Run the following commands in your terminal to set up the web app and database for the first time:
+Run the following commands in your terminal to set up the web app and database for the first time, make sure you are inside the **yt-video-webapp** folder:
 
 ```bash
 # Step 2.1: Build and run the Docker containers
@@ -15,7 +15,7 @@ Run the following commands in your terminal to set up the web app and database f
 docker compose up --build
 ```
 
-Wait for the containers to start running.
+Wait for the containers to start running. Open a new terminal inside **yt-video-webapp** folder, and run the codes below.
 
 ```bash
 # Step 2.2: Create the database inside the running PostgreSQL container
@@ -27,6 +27,8 @@ docker exec -it yt-video-webapp-db-1 psql -U postgres -c "CREATE DATABASE \"yt-v
 docker exec -i yt-video-webapp-db-1 psql -U postgres -d yt-video-db < <PATH_TO_SQL_DUMP>/ytvideodumpfile.sql
 ```
 > **Note:** Replace `<PATH_TO_SQL_DUMP>` with the actual path where you downloaded the `ytvideodumpfile.sql`.
+
+If everything works well, the webapp can be accessed via **http://localhost:3000/**
 
 ---
 ### Post-Setup Commands

@@ -42,7 +42,7 @@ The two discussions both revolve around health but with different focal points. 
 
 
 ### Showcasing: **yt-video-webapp**
-To facilitate easy dissemination and provide a more readable version of the transcripts, the dataset is available in multiple file formats. Users can search for political videos they are interested in and download them directly from the app.
+To facilitate easy dissemination and provide a more readable version of the transcripts, the dataset is available in multiple file formats. Users can search for political videos they are interested in and download them directly from the app. The instructions to run the application locally can be found inside **yt-video-webapp** folder.
 
 ![Web App User Interface 1](./readme-images/UI1.png)
 ![Web App User Interface 2](./readme-images/UI3.png)
