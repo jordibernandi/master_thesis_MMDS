@@ -28,7 +28,7 @@ docker exec -i yt-video-webapp-db-1 psql -U postgres -d yt-video-db < <PATH_TO_S
 ```
 > **Note:** Replace `<PATH_TO_SQL_DUMP>` with the actual path where you downloaded the `ytvideodumpfile.sql`.
 
-If everything works well, the webapp can be accessed via **http://localhost:3000/**
+If everything works well, the webapp can be accessed via **http://localhost:3000/**.
 
 ---
 ### Post-Setup Commands
